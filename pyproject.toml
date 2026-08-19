@@ -1,0 +1,59 @@
+[project]
+name = "company-qualifier"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.122.0",
+    "bm25s>=0.3.10",
+    "diskcache>=5.6.3",
+    "duckdb>=1.5.5",
+    "einops>=0.8.2",
+    "faiss-cpu>=1.15.0",
+    "instructor>=1.15.4",
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.2",
+    "openai>=2.54.0",
+    "pandas>=3.0.5",
+    "pyarrow>=25.0.1",
+    "pydantic>=2.13.4",
+    "pystemmer>=3.1.0",
+    "python-dotenv>=1.2.2",
+    "pyyaml>=6.0.3",
+    "rich>=14.3.4",
+    "sentence-transformers>=5.7.0",
+    "streamlit>=1.59.1",
+    "tenacity>=9.1.4",
+    "tiktoken>=0.13.0",
+    "torch>=2.13.0",
+    "tqdm>=4.70.0",
+    "typer>=0.27.1",
+]
+
+[project.scripts]
+company-qualifier = "company_qualifier:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.3.0",
+    "jupyterlab>=4.6.3",
+    "mypy>=2.3.1",
+    "pre-commit>=4.6.2",
+    "pytest>=9.1.1",
+    "pytest-cov>=7.1.0",
+    "ranx>=0.3.21",
+    "ruff>=0.16.3",
+]
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
+[tool.uv.sources]
+torch = { index = "pytorch-cpu" }
+
