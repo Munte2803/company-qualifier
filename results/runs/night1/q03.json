@@ -1,0 +1,298 @@
+{
+  "query_id": "q03",
+  "query": "Food and beverage manufacturers in France",
+  "plan": {
+    "country_codes": [
+      "fr"
+    ],
+    "numeric_filters": [],
+    "semantic_text": "food and beverage manufacturers",
+    "hyde_descriptions": [],
+    "unsupported": [],
+    "boolean_filters": {}
+  },
+  "candidates_after_rerank": [
+    393,
+    385,
+    380,
+    390,
+    399,
+    397,
+    386,
+    389,
+    387,
+    388,
+    395,
+    394,
+    398,
+    396,
+    384,
+    382,
+    391,
+    383,
+    381,
+    392,
+    230,
+    226,
+    218,
+    75,
+    277,
+    62,
+    309,
+    134,
+    104,
+    288,
+    300,
+    107,
+    94,
+    97,
+    69,
+    71,
+    86,
+    84,
+    73,
+    83
+  ],
+  "verdicts": [
+    {
+      "row_index": 393,
+      "verdict": "match",
+      "evidence": "The company produces a variety of drinks, including artisanal lemonade, energy drinks, beers, and a malt-based beverage...",
+      "reason": "The company explicitly mentions being a food and beverage manufacturer in France."
+    },
+    {
+      "row_index": 385,
+      "verdict": "match",
+      "evidence": "The company specializes in the manufacturing of beverages and food products.",
+      "reason": "The company explicitly mentions being a food and beverage manufacturer in France."
+    },
+    {
+      "row_index": 380,
+      "verdict": "match",
+      "evidence": "The company operates as a food manufacturer and food and beverage exporter.",
+      "reason": "The company explicitly mentions being a food and beverage manufacturer in France."
+    },
+    {
+      "row_index": 390,
+      "verdict": "no_match",
+      "evidence": "The company primarily focuses on kombucha and related plant-based infusions.",
+      "reason": "The company's primary focus is on fermented beverages, not food and beverage manufacturing in general."
+    },
+    {
+      "row_index": 399,
+      "verdict": "match",
+      "evidence": "The company specializes in winemaking, aging, bottling, and distribution management, serving the wine and food industry.",
+      "reason": "The company explicitly mentions winemaking, food production, and serving the food and beverage industry."
+    },
+    {
+      "row_index": 397,
+      "verdict": "match",
+      "evidence": "Club-Mate is a French food and beverage manufacturer specializing in the production of natural, yerba mate-infused sparkling beverages.",
+      "reason": "The company explicitly mentions being a food and beverage manufacturer and producing beverages."
+    },
+    {
+      "row_index": 386,
+      "verdict": "insufficient_data",
+      "evidence": "The company operates primarily in the food and beverage sector.",
+      "reason": "The company's profile does not explicitly confirm or deny being a manufacturer in France."
+    },
+    {
+      "row_index": 389,
+      "verdict": "match",
+      "evidence": "AUDEBERT BOISSONS Société par actions simplifiée, DBA Auvergnat Cola, is a French beverage manufacturer and distributor specialized in the production and distribution of regional beverages.",
+      "reason": "The company explicitly mentions being a beverage manufacturer and distributor in France."
+    },
+    {
+      "row_index": 387,
+      "verdict": "match",
+      "evidence": "The company serves vignerons, distributors, and clients in the Nouvelle-Aquitaine region.",
+      "reason": "The company is a French beverage manufacturer operating in the food production sector and serves clients in the region."
+    },
+    {
+      "row_index": 388,
+      "verdict": "match",
+      "evidence": "The company focuses on beverage manufacturing and offers both standard and organic products, serving cafes, hotels, restaurants, journalists, bloggers, influencers, and resellers in the Île-de-France region and beyond.",
+      "reason": "The company is a French beverage manufacturer specializing in the artisanal and local production of sparkling beverages, including standard and organic options."
+    },
+    {
+      "row_index": 395,
+      "verdict": "no_match",
+      "evidence": "The company offers its products in various formats, including single servings, cocktails, and post-workout options, targeting consumers seeking healthier alternatives to traditional energy drinks.",
+      "reason": "The company is a soft drink manufacturer, but its products are not for food and beverage manufacturers."
+    },
+    {
+      "row_index": 394,
+      "verdict": "no_match",
+      "evidence": "The company operates industrial production and logistics sites, supplying fresh meat and charcuterie products to E.Leclerc stores across the Côtes-d'Armor region and Brittany.",
+      "reason": "The company is a meat processor, not a food and beverage manufacturer."
+    },
+    {
+      "row_index": 398,
+      "verdict": "match",
+      "evidence": "The company operates as a food manufacturer and tea producer, offering its products to both professional and individual consumers in the French Riviera region.",
+      "reason": "The company explicitly states it is a food manufacturer and operates in the French region."
+    },
+    {
+      "row_index": 396,
+      "verdict": "match",
+      "evidence": "The company emphasizes sustainability and organic agricultural practices, sourcing ingredients from the Jurassian massif and offering products with low glycemic index and low calorie content.",
+      "reason": "The company explicitly states it is a food manufacturer and operates in the French region, and its products are organic and low-calorie."
+    },
+    {
+      "row_index": 384,
+      "verdict": "match",
+      "evidence": "The company operates both as a beverage distributor and a soft drinks shop, offering its products through e-commerce and retail channels.",
+      "reason": "The company explicitly states it is a food manufacturer and operates in the French region."
+    },
+    {
+      "row_index": 382,
+      "verdict": "no_match",
+      "evidence": "The company operates in crop growing, fruit and vegetable processing, and truck farming.",
+      "reason": "The company does not explicitly state it is a food and beverage manufacturer, but rather operates in fruit and vegetable processing."
+    },
+    {
+      "row_index": 391,
+      "verdict": "match",
+      "evidence": "The company operates in Paris and serves the French market.",
+      "reason": "The company is a food and beverage manufacturer in France."
+    },
+    {
+      "row_index": 383,
+      "verdict": "insufficient_data",
+      "evidence": "LA MULTILOCALE also operates as a business-to-business service provider, supplying food products...",
+      "reason": "The profile mentions food production and processing, but it's unclear if they are a manufacturer or just a service provider."
+    },
+    {
+      "row_index": 381,
+      "verdict": "match",
+      "evidence": "L'Essinganaise is a French company specialized in the manufacturing and online sale of prepared and cooked African dishes...",
+      "reason": "The company is a food and beverage manufacturer in France, with a focus on African cuisine."
+    },
+    {
+      "row_index": 392,
+      "verdict": "match",
+      "evidence": "Conserverie Fourmi is a French company operating as a micro-conserverie and food production business, specializing in the low-tech canning and preservation of seasonal fruits, vegetables, legumes, and mushrooms...",
+      "reason": "The company is a food and beverage manufacturer in France, with a focus on canning and preservation of seasonal products."
+    },
+    {
+      "row_index": 230,
+      "verdict": "match",
+      "evidence": "agro-food",
+      "reason": "The company's profile explicitly mentions 'agro-food' as one of the sectors they represent and support."
+    },
+    {
+      "row_index": 226,
+      "verdict": "no_match",
+      "evidence": "luxury goods",
+      "reason": "The company's profile does not mention food and beverage manufacturing, but rather luxury goods."
+    },
+    {
+      "row_index": 218,
+      "verdict": "no_match",
+      "evidence": "sporting goods",
+      "reason": "The company's profile does not mention food and beverage manufacturing, but rather sporting goods."
+    },
+    {
+      "row_index": 75,
+      "verdict": "insufficient_data",
+      "evidence": "",
+      "reason": "The company's profile does not mention food and beverage manufacturing or any related activities."
+    },
+    {
+      "row_index": 277,
+      "verdict": "no_match",
+      "evidence": "The company operates in information technology services, digital transformation solutions, and consulting.",
+      "reason": "The query is looking for food and beverage manufacturers in France, but the company's profile does not mention anything related to food or beverages."
+    },
+    {
+      "row_index": 62,
+      "verdict": "no_match",
+      "evidence": "The company provides digital payment solutions, including mobile recharges, bill payments, and online shopping, as well as a digital wallet service.",
+      "reason": "The query is looking for food and beverage manufacturers in France, but the company's profile is related to financial transactions and digital payments."
+    },
+    {
+      "row_index": 309,
+      "verdict": "insufficient_data",
+      "evidence": "The company provides consulting services for industrial, agricultural, and technological startups, with a particular emphasis on the Mediterranean region.",
+      "reason": "The profile mentions that the company provides consulting services to industrial and agricultural companies, but it does not explicitly state that they are food and beverage manufacturers."
+    },
+    {
+      "row_index": 134,
+      "verdict": "no_match",
+      "evidence": "The company develops open-source platforms and workflow automation frameworks for co-designing software and hardware to support AI and ML workloads.",
+      "reason": "The query is looking for food and beverage manufacturers in France, but the company's profile is related to artificial intelligence, machine learning, and automation."
+    },
+    {
+      "row_index": 104,
+      "verdict": "no_match",
+      "evidence": "The company provides software for payroll and HR management, including automation of payroll processes, integration with existing HR and payroll systems, and features such as HR indicators, cost tracking, and electronic contract management.",
+      "reason": "The query is looking for food and beverage manufacturers in France, but this company's profile is about payroll and HR software solutions."
+    },
+    {
+      "row_index": 288,
+      "verdict": "no_match",
+      "evidence": "The company provides integrated engineering services covering heating, ventilation, and air conditioning, plumbing, electrical, and fire safety systems.",
+      "reason": "The query is looking for food and beverage manufacturers in France, but this company's profile is about engineering services for tertiary buildings."
+    },
+    {
+      "row_index": 300,
+      "verdict": "no_match",
+      "evidence": "The company provides technical engineering and product development services, including 3D modeling, technical validation, engineering consulting, new product design, analytical and numerical calculations, and technical audits.",
+      "reason": "The query is looking for food and beverage manufacturers in France, but this company's profile is about engineering consulting and product development services for various sectors."
+    },
+    {
+      "row_index": 107,
+      "verdict": "no_match",
+      "evidence": "The company provides payroll automation, HR management, expense notes, talent management, onboarding/offboarding, professional meetings, and digital HR security services, including digital vaults and electronic HR signatures.",
+      "reason": "The query is looking for food and beverage manufacturers in France, but this company's profile is about digital HR and payroll management services."
+    },
+    {
+      "row_index": 94,
+      "verdict": "no_match",
+      "evidence": "Sun RH is a French software company engaged in providing human resources (HR) management solutions...",
+      "reason": "The company is a software publisher, not a food and beverage manufacturer."
+    },
+    {
+      "row_index": 97,
+      "verdict": "no_match",
+      "evidence": "Staff & Go is a French company engaged in agile human resources software solutions...",
+      "reason": "The company is a software publisher, not a food and beverage manufacturer."
+    },
+    {
+      "row_index": 69,
+      "verdict": "no_match",
+      "evidence": "KAPSOON, SAS, DBA Kapsoon, is a French company specialized in digital human resources software solutions for insurance agents and brokers.",
+      "reason": "The company is a software publisher, not a food and beverage manufacturer."
+    },
+    {
+      "row_index": 71,
+      "verdict": "no_match",
+      "evidence": "Asys is a French software publisher specialized in human resources (HR) management software.",
+      "reason": "The company is a software publisher, not a food and beverage manufacturer."
+    },
+    {
+      "row_index": 86,
+      "verdict": "no_match",
+      "evidence": "The company offers solutions for payroll management, personnel administration, time and activity management, talent management, professional training, recruitment, and HR operations.",
+      "reason": "The query specifies 'Food and beverage manufacturers in France', but the company's profile does not mention food or beverage manufacturing."
+    },
+    {
+      "row_index": 84,
+      "verdict": "no_match",
+      "evidence": "The company develops and provides a modular suite of HR management solutions, including administrative HR management, talent management, and payroll management, serving SMEs and medium-sized enterprises in over 10 countries.",
+      "reason": "The query specifies 'Food and beverage manufacturers in France', but the company's profile does not mention food or beverage manufacturing."
+    },
+    {
+      "row_index": 73,
+      "verdict": "no_match",
+      "evidence": "The company offers a platform for centralized and automated HR processes, including recruitment, employee onboarding, mobility, training, payroll management, and e-learning.",
+      "reason": "The query specifies 'Food and beverage manufacturers in France', but the company's profile does not mention food or beverage manufacturing."
+    },
+    {
+      "row_index": 83,
+      "verdict": "no_match",
+      "evidence": "The company provides a comprehensive HR management system that includes personnel administration, payroll processing, workforce management, salary management, employment management, professional training, career management, and time management.",
+      "reason": "The query specifies 'Food and beverage manufacturers in France', but the company's profile does not mention food or beverage manufacturing."
+    }
+  ]
+}

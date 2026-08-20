@@ -1,0 +1,305 @@
+{
+  "query_id": "q09",
+  "query": "Fast-growing fintech companies competing with traditional banks in Europe.",
+  "plan": {
+    "country_codes": [
+      "europe"
+    ],
+    "numeric_filters": [],
+    "semantic_text": "fintech companies",
+    "hyde_descriptions": [
+      "Specializing in digital financial services, we're a fintech company that helps businesses innovate and stay ahead of the curve.",
+      "Our fintech solutions empower financial institutions to modernize and compete in the digital age.",
+      "As a fintech pioneer, we're dedicated to developing cutting-edge financial technologies that drive growth and efficiency."
+    ],
+    "unsupported": [
+      "fast-growing",
+      "competing with traditional banks"
+    ],
+    "boolean_filters": {}
+  },
+  "candidates_after_rerank": [
+    62,
+    74,
+    45,
+    238,
+    55,
+    60,
+    46,
+    63,
+    93,
+    284,
+    51,
+    282,
+    56,
+    329,
+    48,
+    443,
+    58,
+    53,
+    44,
+    65,
+    13,
+    70,
+    8,
+    275,
+    61,
+    16,
+    444,
+    451,
+    47,
+    54,
+    218,
+    315,
+    49,
+    96,
+    234,
+    59,
+    12,
+    106,
+    50,
+    405
+  ],
+  "verdicts": [
+    {
+      "row_index": 62,
+      "verdict": "match",
+      "evidence": "collaborates with banks to deliver financial services",
+      "reason": "European Pay works with banks to provide financial services, which aligns with the query's requirement of competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 74,
+      "verdict": "no_match",
+      "evidence": "Human Resources Consulting Services",
+      "reason": "Novative's primary focus is on human resources consulting, which does not directly compete with traditional banks in Europe."
+    },
+    {
+      "row_index": 45,
+      "verdict": "match",
+      "evidence": "provides monitoring systems for loan traceability and risk profiling, supporting digital traceability of funds and reducing delays in insurance payouts",
+      "reason": "SkyHarvest's platform connects loans with insurance and provides real-time data, which aligns with the query's requirement of competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 238,
+      "verdict": "no_match",
+      "evidence": "Motor Vehicle Gasoline Engine and Engine Parts Manufacturing",
+      "reason": "Ford Credit's primary focus is on automotive financing and manufacturing, which does not directly compete with traditional banks in Europe."
+    },
+    {
+      "row_index": 55,
+      "verdict": "match",
+      "evidence": "The company provides a mobile banking platform that integrates multiple bank accounts, neobanks, and wallets from over 3,400 institutions across 18 European countries.",
+      "reason": "The company explicitly supports the query's requirement of competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 60,
+      "verdict": "match",
+      "evidence": "The company provides online foreign exchange execution platforms for individuals and businesses, enabling transactions in multiple currencies across the UK, EU, US, and Canada.",
+      "reason": "The company explicitly supports the query's requirement of competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 46,
+      "verdict": "insufficient_data",
+      "evidence": "The company offers digital wallet and prepaid card services, as well as a marketplace for parking, transport, entertainment, utilities, and telecoms.",
+      "reason": "The company's profile does not explicitly confirm or deny competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 63,
+      "verdict": "match",
+      "evidence": "The company provides gateway services and corporate financial solutions, and operates multiple branches in London.",
+      "reason": "The company explicitly supports the query's requirement of competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 93,
+      "verdict": "no_match",
+      "evidence": "Paychex also offers HR management software for recruitment, onboarding, personnel administration, and training management",
+      "reason": "The company's focus is on payroll and HR services, not competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 284,
+      "verdict": "match",
+      "evidence": "The company provides services in cloud solutions, data-driven business transformation, intelligent automation, user experience services, cybersecurity, and AI-powered solutions",
+      "reason": "The company offers various services that can be applied to fintech and competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 51,
+      "verdict": "no_match",
+      "evidence": "The company is specialized in money transfer services",
+      "reason": "The company's focus is on money transfer services, not competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 282,
+      "verdict": "no_match",
+      "evidence": "The company provides software product development, mobile application development, social network development, and mainframe migration",
+      "reason": "The company's focus is on software development and IT services, not competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 56,
+      "verdict": "no_match",
+      "evidence": "The company offers a platform for users to compare credit products from over 50 financial institutions and banks...",
+      "reason": "The query requires fintech companies competing with traditional banks, but Credito21's profile focuses on providing online credit comparison services, which does not necessarily imply competition with traditional banks."
+    },
+    {
+      "row_index": 329,
+      "verdict": "no_match",
+      "evidence": "The company provides services such as carbon footprint calculation, sustainability reporting, and Net Zero compliance...",
+      "reason": "The query requires fintech companies competing with traditional banks, but EcoExpert Green Consulting's profile focuses on environmental and sustainability services, which is unrelated to the query."
+    },
+    {
+      "row_index": 48,
+      "verdict": "match",
+      "evidence": "City Exchange is a British financial service provider specialized in foreign exchange and remittance services, with a focus on currency exchange and money transfer between Iran and the UK.",
+      "reason": "The company's profile explicitly mentions financial services, which aligns with the query's requirements."
+    },
+    {
+      "row_index": 443,
+      "verdict": "no_match",
+      "evidence": "Novartis AG is a Swiss multinational pharmaceutical corporation engaged in the development, manufacturing, and distribution of pharmaceuticals...",
+      "reason": "The query requires fintech companies competing with traditional banks, but Novartis' profile focuses on pharmaceuticals, which is unrelated to the query."
+    },
+    {
+      "row_index": 58,
+      "verdict": "match",
+      "evidence": "The company offers payment solutions such as card acquiring, MOTO payments, alternative payment methods, and payment analytics, as well as corporate financial management and trading platform services.",
+      "reason": "The company provides payment processing and financial services, which directly competes with traditional banks in Europe."
+    },
+    {
+      "row_index": 53,
+      "verdict": "match",
+      "evidence": "The company facilitates interest generation on assets held in Interest Accounts by lending them to institutional and corporate borrowers, utilizing an over-collateralized loan model.",
+      "reason": "The company operates in decentralized finance, which is a fintech area competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 44,
+      "verdict": "no_match",
+      "evidence": "The company operates a global network of countries and provides a mobile application for money transfer management.",
+      "reason": "The company's primary focus is on remittance services, which is not a direct competitor to traditional banks in Europe."
+    },
+    {
+      "row_index": 65,
+      "verdict": "no_match",
+      "evidence": "The company offers a comprehensive platform that covers areas such as recruitment, onboarding, staffing, time and attendance, payroll, performance management, training management, employee self-service, internal communication, and HR analytics.",
+      "reason": "The company specializes in HR software solutions, which is not a fintech area competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 13,
+      "verdict": "no_match",
+      "evidence": "The company operates in the hospitality, restaurant, and catering sector, as well as serving independent retailers.",
+      "reason": "The query is looking for fintech companies competing with traditional banks in Europe, but this company's profile does not mention fintech or banking."
+    },
+    {
+      "row_index": 70,
+      "verdict": "no_match",
+      "evidence": "The company develops and provides HR software and payroll solutions, including cloud-based HR and payroll platforms, employee benefits management, recruitment and onboarding software, and learning management systems.",
+      "reason": "The query is looking for fintech companies competing with traditional banks in Europe, but this company's profile does not mention fintech or banking."
+    },
+    {
+      "row_index": 8,
+      "verdict": "no_match",
+      "evidence": "The company operates as a manufacturer and distributor, offering a range of vehicles and providing services such as vehicle financing, trade-in options, and maintenance contracts.",
+      "reason": "The query is looking for fintech companies competing with traditional banks in Europe, but this company's profile does not mention fintech or banking."
+    },
+    {
+      "row_index": 275,
+      "verdict": "insufficient_data",
+      "evidence": "The company supports the development of digital business ideas and startups, offering services such as ideation, business plan development, and post-creation monitoring.",
+      "reason": "The query is looking for fintech companies competing with traditional banks in Europe, but this company's profile does not explicitly mention fintech or banking, and it is unclear if they have any relevant services or products."
+    },
+    {
+      "row_index": 61,
+      "verdict": "no_match",
+      "evidence": "International, Secondary Market, and All Other Nondepository Credit Intermediation.",
+      "reason": "The company's profile focuses on commodity trade finance, which is not directly related to competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 16,
+      "verdict": "no_match",
+      "evidence": "Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals).",
+      "reason": "The company's profile is focused on oil and gas distribution, which is not a fintech company competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 444,
+      "verdict": "no_match",
+      "evidence": "Pharmaceutical Preparation Manufacturing.",
+      "reason": "The company's profile is focused on contract development and manufacturing for the pharmaceutical industry, which is not a fintech company competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 451,
+      "verdict": "no_match",
+      "evidence": "Medicinal and Botanical Manufacturing.",
+      "reason": "The company's profile is focused on contract development and manufacturing for the pharmaceutical industry, which is not a fintech company competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 47,
+      "verdict": "match",
+      "evidence": "offers online payment solutions and facilitating secure transaction processing for clients",
+      "reason": "explicitly supports payment processing and transaction security"
+    },
+    {
+      "row_index": 54,
+      "verdict": "match",
+      "evidence": "provides payment processing and merchant services, including card machine rentals, EPOS systems, and online payment gateways",
+      "reason": "explicitly supports payment processing and terminal services"
+    },
+    {
+      "row_index": 218,
+      "verdict": "no_match",
+      "evidence": "operates a global network of stores and manages the research, design, production, logistics, and distribution of its products in-house",
+      "reason": "contradicts the query's requirement of competing with traditional banks in Europe"
+    },
+    {
+      "row_index": 315,
+      "verdict": "insufficient_data",
+      "evidence": "supports energy efficiency and decarbonization initiatives",
+      "reason": "neither confirms nor denies competing with traditional banks in Europe"
+    },
+    {
+      "row_index": 49,
+      "verdict": "match",
+      "evidence": "The company operates internationally, providing currency exchange, money transfer, and real-time transfer tracking to clients in over 22 countries...",
+      "reason": "The company provides international money transfer services, which is a key aspect of competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 96,
+      "verdict": "no_match",
+      "evidence": "The company offers a cloud-based platform for HR administration, payroll processing, workforce planning, employee and manager self-service, training administration, and talent management.",
+      "reason": "The company's services are focused on HR and payroll solutions, which is not directly related to competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 234,
+      "verdict": "no_match",
+      "evidence": "The company operates both physical and online stores, and provides additional services such as equipment rental, repair, maintenance, and second-hand equipment sales.",
+      "reason": "The company's services are focused on retail and distribution of sports equipment and apparel, which is not related to competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 59,
+      "verdict": "match",
+      "evidence": "The company provides debt and equity financing solutions for medium-sized companies, and operates as a financial consultant and advises institutional investors on investment opportunities in various sectors.",
+      "reason": "The company provides financial services, including debt and equity financing, which is a key aspect of competing with traditional banks in Europe."
+    },
+    {
+      "row_index": 12,
+      "verdict": "insufficient_data",
+      "evidence": "The company's profile mentions natural gas extraction and distribution, but there is no mention of fintech or competing with traditional banks in Europe.",
+      "reason": "No relevant information found"
+    },
+    {
+      "row_index": 106,
+      "verdict": "no_match",
+      "evidence": "The company offers AI-enabled HR, payroll, and workforce management software and services, but there is no mention of fintech or competing with traditional banks in Europe.",
+      "reason": "Profile contradicts query requirements"
+    },
+    {
+      "row_index": 50,
+      "verdict": "no_match",
+      "evidence": "The company provides payment and cash management solutions, but there is no mention of fintech or competing with traditional banks in Europe.",
+      "reason": "Profile contradicts query requirements"
+    },
+    {
+      "row_index": 405,
+      "verdict": "no_match",
+      "evidence": "The company is engaged in the development, procurement, and logistics of renewable energy projects, but there is no mention of fintech or competing with traditional banks in Europe.",
+      "reason": "Profile contradicts query requirements"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "query_id": "q10",
+  "query": "E-commerce companies using Shopify or similar platforms",
+  "plan": {
+    "country_codes": [],
+    "numeric_filters": [],
+    "semantic_text": "e-commerce companies",
+    "hyde_descriptions": [
+      "Specializing in online retail solutions, we help businesses thrive in the digital marketplace.",
+      "Our e-commerce platform provides a seamless shopping experience for customers, with features like streamlined checkout and personalized recommendations.",
+      "We offer a comprehensive suite of e-commerce services, from website design to order fulfillment, to help businesses succeed online."
+    ],
+    "unsupported": [
+      "using Shopify or similar platforms"
+    ],
+    "boolean_filters": {}
+  },
+  "candidates_after_rerank": [
+    216,
+    116,
+    47,
+    275,
+    58,
+    217,
+    265,
+    240,
+    446,
+    236,
+    20,
+    384,
+    15,
+    214,
+    219,
+    383,
+    241,
+    62,
+    227,
+    224,
+    229,
+    274,
+    54,
+    223,
+    1,
+    225,
+    267,
+    235,
+    272,
+    218,
+    156,
+    226,
+    286,
+    107,
+    276,
+    282,
+    239,
+    146,
+    285,
+    108
+  ],
+  "verdicts": [
+    {
+      "row_index": 216,
+      "verdict": "match",
+      "evidence": "The company operates a network of big-box stores and e-commerce platforms...",
+      "reason": "The Home Depot operates e-commerce platforms, which matches the query."
+    },
+    {
+      "row_index": 116,
+      "verdict": "no_match",
+      "evidence": "The company provides services for optimizing and deploying machine learning models...",
+      "reason": "The company's services are related to machine learning, not e-commerce platforms."
+    },
+    {
+      "row_index": 47,
+      "verdict": "match",
+      "evidence": "The company offers online payment solutions and facilitating secure transaction processing for clients.",
+      "reason": "EasyKassa provides e-commerce payment solutions, which matches the query."
+    },
+    {
+      "row_index": 275,
+      "verdict": "no_match",
+      "evidence": "The company supports the development of digital business ideas and startups...",
+      "reason": "Telefónica Venture Builder's services are related to digital innovation and startup support, not e-commerce platforms."
+    },
+    {
+      "row_index": 58,
+      "verdict": "match",
+      "evidence": "The company offers payment solutions such as card acquiring, MOTO payments, alternative payment methods, and payment analytics, as well as corporate financial management and trading platform services.",
+      "reason": "The company explicitly supports the query by offering payment solutions and corporate financial management services, which are likely to be used by e-commerce companies on Shopify or similar platforms."
+    },
+    {
+      "row_index": 217,
+      "verdict": "no_match",
+      "evidence": "The company supplies food products, culinary equipment, and digital tools to restaurants, healthcare facilities, hospitality establishments, educational institutions, and other foodservice operators.",
+      "reason": "The company's services are primarily focused on food distribution and hospitality, which does not match the query's requirement of e-commerce companies using Shopify or similar platforms."
+    },
+    {
+      "row_index": 265,
+      "verdict": "match",
+      "evidence": "The company operates through a direct-to-consumer e-commerce platform.",
+      "reason": "The company explicitly supports the query by operating a direct-to-consumer e-commerce platform, which is likely to be used by e-commerce companies on Shopify or similar platforms."
+    },
+    {
+      "row_index": 240,
+      "verdict": "no_match",
+      "evidence": "The company offers a broad range of products including automotive, air and power tools, storage, outdoor power equipment, generators, welding supplies, shop equipment, and hand tools.",
+      "reason": "The company's services are primarily focused on hardware retail, which does not match the query's requirement of e-commerce companies using Shopify or similar platforms."
+    },
+    {
+      "row_index": 446,
+      "verdict": "match",
+      "evidence": "The company is also involved in research and development and has a presence in the e-health and e-commerce domains.",
+      "reason": "The company explicitly mentions its presence in e-commerce."
+    },
+    {
+      "row_index": 236,
+      "verdict": "match",
+      "evidence": "The company also operates as a bedding and home goods store, serving individuals, families, and healthcare providers, and maintains an e-commerce platform.",
+      "reason": "The company explicitly mentions its e-commerce platform."
+    },
+    {
+      "row_index": 20,
+      "verdict": "insufficient_data",
+      "evidence": "The company serves industries such as automotive, construction, consumer goods, and e-commerce, but does not explicitly mention using Shopify or similar platforms.",
+      "reason": "The company's profile does not confirm or deny using Shopify or similar platforms."
+    },
+    {
+      "row_index": 384,
+      "verdict": "match",
+      "evidence": "The company operates both as a beverage distributor and a soft drinks shop, offering its products through e-commerce and retail channels.",
+      "reason": "The company explicitly mentions its e-commerce channel."
+    },
+    {
+      "row_index": 15,
+      "verdict": "match",
+      "evidence": "Online Shopping and eCommerce Solutions",
+      "reason": "The company explicitly mentions offering online shopping and e-commerce solutions."
+    },
+    {
+      "row_index": 214,
+      "verdict": "match",
+      "evidence": "Online Retail",
+      "reason": "The company explicitly mentions offering online retail services."
+    },
+    {
+      "row_index": 219,
+      "verdict": "match",
+      "evidence": "Online Fashion Retail",
+      "reason": "The company explicitly mentions offering online fashion retail services."
+    },
+    {
+      "row_index": 383,
+      "verdict": "no_match",
+      "evidence": "Local Food Distribution",
+      "reason": "The company's focus is on local food production and distribution, but it does not explicitly mention using Shopify or similar platforms."
+    },
+    {
+      "row_index": 241,
+      "verdict": "no_match",
+      "evidence": "The company operates both physical stores and an online platform, serving a global market with a focus on performance apparel and footwear.",
+      "reason": "The query specifies 'using Shopify or similar platforms', but Lululemon's profile does not mention using Shopify or similar platforms."
+    },
+    {
+      "row_index": 62,
+      "verdict": "no_match",
+      "evidence": "The company provides digital payment solutions, including mobile recharges, bill payments, and online shopping, as well as a digital wallet service.",
+      "reason": "The query specifies 'using Shopify or similar platforms', but European Pay's profile mentions 'digital payment solutions' but not using Shopify or similar platforms."
+    },
+    {
+      "row_index": 227,
+      "verdict": "no_match",
+      "evidence": "The company operates primarily in the UAE, Egypt, and Saudi Arabia, serving a diverse customer base that includes women, men, children, and families.",
+      "reason": "The query specifies 'using Shopify or similar platforms', but H&M Home's profile does not mention using Shopify or similar platforms."
+    },
+    {
+      "row_index": 224,
+      "verdict": "no_match",
+      "evidence": "The company offers grocery shopping, online ordering, and delivery services, and provides additional retail functions such as bakeries, delicatessens, florist departments, pharmacies, wine and spirits, health clinics, fitness centers, and full-service restaurants.",
+      "reason": "The query specifies 'using Shopify or similar platforms', but Hy-Vee's profile mentions 'online ordering' but not using Shopify or similar platforms."
+    },
+    {
+      "row_index": 229,
+      "verdict": "no_match",
+      "evidence": "The company serves both individual consumers and business clients, including corporate cafés, hotels, restaurants, and fine dining establishments, offering professional coffee solutions and subscription services.",
+      "reason": "The query specifies e-commerce companies using Shopify or similar platforms, but Nespresso's profile focuses on B2B sales and professional coffee solutions, not e-commerce."
+    },
+    {
+      "row_index": 274,
+      "verdict": "no_match",
+      "evidence": "The company provides IT services and solutions, including business and digital transformation, network and security services, IT and infrastructure operations, hybrid IT and cloud services, and consulting.",
+      "reason": "The query specifies e-commerce companies using Shopify or similar platforms, but Fujitsu's profile focuses on IT services and solutions, not e-commerce."
+    },
+    {
+      "row_index": 54,
+      "verdict": "no_match",
+      "evidence": "The company provides payment processing and merchant services, including card machine rentals, EPOS systems, and online payment gateways.",
+      "reason": "The query specifies e-commerce companies using Shopify or similar platforms, but New Payment Innovation's profile focuses on payment processing and merchant services, not e-commerce."
+    },
+    {
+      "row_index": 223,
+      "verdict": "no_match",
+      "evidence": "The company operates a network of supermarkets and convenience stores, offering a broad range of grocery and household products.",
+      "reason": "The query specifies e-commerce companies using Shopify or similar platforms, but Coles' profile focuses on retail operations, not e-commerce."
+    },
+    {
+      "row_index": 1,
+      "verdict": "no_match",
+      "evidence": "markets: Consumer Goods.",
+      "reason": "The company's profile does not mention using Shopify or similar platforms."
+    },
+    {
+      "row_index": 225,
+      "verdict": "no_match",
+      "evidence": "offerings: Energy Drink Infusion Manufacturing, Beverage Recipe and Tutorial Services, Beverage Product Manufacturing, ..., markets: Food and Beverage.",
+      "reason": "The company's profile does not mention using Shopify or similar platforms."
+    },
+    {
+      "row_index": 267,
+      "verdict": "no_match",
+      "evidence": "offerings: IoT Solutions Development, IT Outsourcing Services, Cloud Computing Solutions, ..., markets: Capital Markets, Consulting, Manufacturing, ..., Information Technology, Consumer Packaged Goods, Insurance, Education, Life Sciences, Banking.",
+      "reason": "The company's profile does not mention using Shopify or similar platforms."
+    },
+    {
+      "row_index": 235,
+      "verdict": "no_match",
+      "evidence": "offerings: Animal Care Supplies Retail, Workwear and Safety Equipment Retail, Crop and Glasshouse Cultivation Supplies Retail, ..., markets: Agriculture.",
+      "reason": "The company's profile does not mention using Shopify or similar platforms."
+    },
+    {
+      "row_index": 272,
+      "verdict": "no_match",
+      "evidence": "The company serves a wide range of industries, including automotive, banking, education, energy, healthcare, insurance, life sciences, manufacturing, retail, telecommunications, media, technology, and travel.",
+      "reason": "The company's profile does not mention e-commerce or Shopify, and its industries served do not match the query."
+    },
+    {
+      "row_index": 218,
+      "verdict": "no_match",
+      "evidence": "The company operates a global network of stores and manages the research, design, production, logistics, and distribution of its products in-house.",
+      "reason": "The company's profile does not mention e-commerce or Shopify, and it manages its own logistics and distribution."
+    },
+    {
+      "row_index": 156,
+      "verdict": "no_match",
+      "evidence": "The company offers a no-code platform that enables users to register, deploy, monitor, and operate machine learning models.",
+      "reason": "The company's profile does not mention e-commerce or Shopify, and it provides a platform-as-a-service solution for machine learning model deployment and monitoring."
+    },
+    {
+      "row_index": 226,
+      "verdict": "no_match",
+      "evidence": "The company operates in the luxury goods industry, offering a range of products including handbags, ready-to-wear, jewelry, watches, haute couture, fragrances, makeup, skincare, and home goods.",
+      "reason": "The company's profile does not mention e-commerce or Shopify, and it is primarily a luxury goods company."
+    },
+    {
+      "row_index": 286,
+      "verdict": "no_match",
+      "evidence": "CACI also delivers business intelligence and software development, including enterprise and business systems, and supports its operations with a corporate service management system, virtual university, and related tools and platforms.",
+      "reason": "No mention of e-commerce or Shopify-like platforms"
+    },
+    {
+      "row_index": 107,
+      "verdict": "no_match",
+      "evidence": "Jooma is a French company specialized in digital HR and payroll management services, offering SaaS solutions for startups, small and medium enterprises, and organizations with less than 100 employees.",
+      "reason": "No mention of e-commerce or Shopify-like platforms"
+    },
+    {
+      "row_index": 276,
+      "verdict": "no_match",
+      "evidence": "CGI Inc. is a Canadian multinational information technology consulting and software development company.",
+      "reason": "No mention of e-commerce or Shopify-like platforms"
+    },
+    {
+      "row_index": 282,
+      "verdict": "no_match",
+      "evidence": "Globant S.A. is an international IT and software development company engaged in AI-driven software development, business transformation solutions, and cloud services.",
+      "reason": "No mention of e-commerce or Shopify-like platforms"
+    },
+    {
+      "row_index": 239,
+      "verdict": "no_match",
+      "evidence": "operates both physical stores and an online platform",
+      "reason": "does not explicitly use Shopify or similar platforms"
+    },
+    {
+      "row_index": 146,
+      "verdict": "no_match",
+      "evidence": "provides a platform for testing and improving machine learning models",
+      "reason": "does not use Shopify or similar platforms"
+    },
+    {
+      "row_index": 285,
+      "verdict": "no_match",
+      "evidence": "offers management consulting, professional training and coaching, and digital services, including data and analytics, artificial intelligence and machine learning, and cloud solutions",
+      "reason": "does not explicitly use Shopify or similar platforms"
+    },
+    {
+      "row_index": 108,
+      "verdict": "no_match",
+      "evidence": "offers a suite of HR management tools",
+      "reason": "does not use Shopify or similar platforms"
+    }
+  ]
+}

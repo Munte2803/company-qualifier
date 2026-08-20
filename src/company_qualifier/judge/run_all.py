@@ -14,6 +14,7 @@ from company_qualifier.judge.schemas import QueryPlan
 from company_qualifier.rerank.cross_encoder import Reranker
 from company_qualifier.retrieval.embed import SRC_DATASET
 from company_qualifier.retrieval.filters import filter_country
+from company_qualifier.retrieval.filters import filter_boolean
 from company_qualifier.retrieval.fuse import rrf_fuse
 from company_qualifier.retrieval.lexical import LexicalSearcher
 from company_qualifier.retrieval.search import DenseSearcher
@@ -30,6 +31,7 @@ def main() -> None:
     companies, _ = dedupe_exact(companies)
     profiles = dict(zip((c.row_index for c in companies), build_all(companies)))
     countries = {c.row_index: c.address.country_code for c in companies}
+    booleans = {c.row_index: {"is_public": c.is_public} for c in companies}
 
     dense, lexical, rr, llm = DenseSearcher(), LexicalSearcher(), Reranker(), OllamaClient()
     OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -49,6 +51,8 @@ def main() -> None:
             for c in plan.country_codes:
                 codes.extend(regions.get(c, [c]))
 
+                            
+
             
             texts = [plan.semantic_text or text] + plan.hyde_descriptions
             rankings = [dense.search(t) for t in texts] + [lexical.search(plan.semantic_text or text)]
@@ -56,6 +60,7 @@ def main() -> None:
             if codes:
                 hybrid = filter_country(hybrid, codes[0], countries) if len(codes) == 1 else \
                          [i for i in hybrid if countries.get(i) in set(codes)]
+            hybrid = filter_boolean(hybrid, plan.boolean_filters, booleans)
 
             reranked = rr.rerank(text, hybrid[:150], top_k=40)
             verdicts = judge_candidates(llm, text, reranked, profiles)

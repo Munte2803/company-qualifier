@@ -1,0 +1,300 @@
+{
+  "query_id": "q12",
+  "query": "Companies that manufacture or supply critical components for electric vehicle battery production",
+  "plan": {
+    "country_codes": [],
+    "numeric_filters": [],
+    "semantic_text": "companies that manufacture or supply critical components for electric vehicle battery production",
+    "hyde_descriptions": [
+      "Specialized manufacturer of high-performance battery components for electric vehicles.",
+      "Supplier of critical components for electric vehicle battery production, ensuring reliability and efficiency.",
+      "Leader in electric vehicle battery component manufacturing, providing innovative solutions for the industry."
+    ],
+    "unsupported": [],
+    "boolean_filters": {}
+  },
+  "candidates_after_rerank": [
+    367,
+    338,
+    362,
+    376,
+    336,
+    347,
+    374,
+    345,
+    357,
+    368,
+    377,
+    363,
+    346,
+    359,
+    349,
+    295,
+    366,
+    337,
+    344,
+    350,
+    333,
+    361,
+    339,
+    358,
+    348,
+    188,
+    332,
+    378,
+    375,
+    355,
+    331,
+    369,
+    364,
+    334,
+    340,
+    335,
+    353,
+    365,
+    356,
+    174
+  ],
+  "verdicts": [
+    {
+      "row_index": 367,
+      "verdict": "match",
+      "evidence": "The company operates as a manufacturer and technology provider, offering proprietary manufacturing processes that reduce production costs and waste, and are compatible with U.S. feedstocks and recycling inputs.",
+      "reason": "The company explicitly states that it manufactures cathode materials for lithium-ion batteries."
+    },
+    {
+      "row_index": 338,
+      "verdict": "match",
+      "evidence": "The company operates as a vertically integrated manufacturer, with activities in lithium mining, production of cathode and anode materials, battery cells, modules, and DC blocks.",
+      "reason": "The company explicitly states that it manufactures cathode and anode materials, battery cells, modules, and DC blocks."
+    },
+    {
+      "row_index": 362,
+      "verdict": "insufficient_data",
+      "evidence": "The company operates in the research and product development sector, utilizing nanoscience, polymer chemistry, and machine-learning-driven materials discovery to design and produce coated separator technology for electric vehicle and energy storage applications.",
+      "reason": "The company does not explicitly state that it manufactures or supplies critical components for electric vehicle battery production."
+    },
+    {
+      "row_index": 376,
+      "verdict": "no_match",
+      "evidence": "The company specializes in the development and supply of electric vehicle charging infrastructure and lithium ion battery technology.",
+      "reason": "The company does not manufacture or supply critical components for electric vehicle battery production, but rather provides charging infrastructure and batteries."
+    },
+    {
+      "row_index": 336,
+      "verdict": "match",
+      "evidence": "The company operates as both a manufacturer and developer, providing in-house production of cathodes, anodes, and electrolytes...",
+      "reason": "The company explicitly states that it manufactures solid-state lithium battery materials and components."
+    },
+    {
+      "row_index": 347,
+      "verdict": "match",
+      "evidence": "The company manufactures lithium battery and energy storage equipment, as well as lithium battery cathode materials...",
+      "reason": "The company explicitly states that it manufactures lithium battery and energy storage equipment, as well as lithium battery cathode materials."
+    },
+    {
+      "row_index": 374,
+      "verdict": "match",
+      "evidence": "The company develops and manufactures battery cells using technologies such as Thick Layer Technology and composite cathodes...",
+      "reason": "The company explicitly states that it develops and manufactures battery cells."
+    },
+    {
+      "row_index": 345,
+      "verdict": "insufficient_data",
+      "evidence": "The company produces cathode and anode materials, including LFP, LMFP, and LTO chemistries...",
+      "reason": "The company's profile does not explicitly state that it manufactures or supplies critical components for electric vehicle battery production."
+    },
+    {
+      "row_index": 357,
+      "verdict": "match",
+      "evidence": "QuantumScape Battery, Inc. is an American electronics manufacturer and technology company engaged in the development and production of solid-state lithium-metal batteries for electric vehicles and energy storage applications.",
+      "reason": "The company explicitly states that they manufacture solid-state lithium-metal batteries for electric vehicles."
+    },
+    {
+      "row_index": 368,
+      "verdict": "match",
+      "evidence": "The company serves the automotive battery power, energy storage, and lead-acid replacement markets, providing battery cell products and battery systems for applications such as electric passenger cars, electric forklifts, electric sightseeing vehicles, and low-speed electric vehicles.",
+      "reason": "The company explicitly states that they provide battery cell products and battery systems for electric vehicles."
+    },
+    {
+      "row_index": 377,
+      "verdict": "insufficient_data",
+      "evidence": "The company focuses on proprietary formulations and production processes to address stability challenges in lithium manganese-rich cathode chemistries, with applications in light- to medium-duty electric vehicles, energy storage, and related battery technologies.",
+      "reason": "The company does not explicitly state that they manufacture or supply critical components for electric vehicle battery production, but rather provides materials solutions for battery manufacturers."
+    },
+    {
+      "row_index": 363,
+      "verdict": "match",
+      "evidence": "The company operates in the semiconductor and renewable energy sectors, providing battery materials for electric vehicles, energy storage, and related applications.",
+      "reason": "The company explicitly states that they provide battery materials for electric vehicles."
+    },
+    {
+      "row_index": 346,
+      "verdict": "match",
+      "evidence": "The company also operates as a manufacturer of artificial and natural graphite for electric vehicles...",
+      "reason": "The company explicitly mentions manufacturing graphite for electric vehicles."
+    },
+    {
+      "row_index": 359,
+      "verdict": "match",
+      "evidence": "The company serves industries such as electric vehicles...",
+      "reason": "The company explicitly mentions serving the electric vehicle industry."
+    },
+    {
+      "row_index": 349,
+      "verdict": "match",
+      "evidence": "The company serves the automotive, energy storage, and consumer electronics sectors, supplying products for electric vehicles...",
+      "reason": "The company explicitly mentions supplying products for electric vehicles."
+    },
+    {
+      "row_index": 295,
+      "verdict": "insufficient_data",
+      "evidence": "The company provides design, development, and supply of high-precision components and subassemblies for electric vehicles...",
+      "reason": "The company mentions supplying components for electric vehicles, but does not explicitly mention manufacturing or supplying critical components for battery production."
+    },
+    {
+      "row_index": 366,
+      "verdict": "match",
+      "evidence": "producing materials for lithium-ion batteries, and designing and supplying lithium-ion battery cells and batteries for specific applications.",
+      "reason": "The company explicitly mentions manufacturing and supplying critical components for electric vehicle battery production."
+    },
+    {
+      "row_index": 337,
+      "verdict": "match",
+      "evidence": "production of polymer electrolytes, composite LFP cathodes, and lithium metal anodes",
+      "reason": "The company explicitly mentions manufacturing critical components for electric vehicle battery production, including polymer electrolytes, composite LFP cathodes, and lithium metal anodes."
+    },
+    {
+      "row_index": 344,
+      "verdict": "no_match",
+      "evidence": "supplying lithium iron phosphate cathode materials for battery manufacturing",
+      "reason": "The company primarily supplies lithium iron phosphate cathode materials, which is a component for battery production, but does not explicitly mention manufacturing or supplying critical components for electric vehicle battery production."
+    },
+    {
+      "row_index": 350,
+      "verdict": "no_match",
+      "evidence": "manufactures solid-state electrolytes for lithium and sodium batteries",
+      "reason": "The company manufactures solid-state electrolytes, but does not explicitly mention manufacturing or supplying critical components for electric vehicle battery production, such as battery cells or packs."
+    },
+    {
+      "row_index": 333,
+      "verdict": "match",
+      "evidence": "Lithium-Sulfur Battery Manufacturing",
+      "reason": "The company explicitly mentions manufacturing lithium-sulfur batteries."
+    },
+    {
+      "row_index": 361,
+      "verdict": "match",
+      "evidence": "Lithium-Ion Battery Electrolyte Manufacturing",
+      "reason": "The company explicitly mentions manufacturing lithium-ion battery electrolytes."
+    },
+    {
+      "row_index": 339,
+      "verdict": "match",
+      "evidence": "Silicon Cathode Material Manufacturing",
+      "reason": "The company explicitly mentions manufacturing silicon cathode materials."
+    },
+    {
+      "row_index": 358,
+      "verdict": "match",
+      "evidence": "Lithium Battery Manufacturing",
+      "reason": "The company explicitly mentions manufacturing lithium batteries."
+    },
+    {
+      "row_index": 348,
+      "verdict": "match",
+      "evidence": "offers: Electric Vehicle Battery Pack Manufacturing, Lithium-Ion Battery Cathode Material Research and Development, Lithium-Ion Battery Cathode Material Manufacturing.",
+      "reason": "East Saint先行 explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 188,
+      "verdict": "no_match",
+      "evidence": "The company combines solar panels, wind turbines, and used electric car batteries in its power stations.",
+      "reason": "Sowin Power's focus is on clean energy solutions for individuals and households, not on manufacturing or supplying critical components for electric vehicle battery production."
+    },
+    {
+      "row_index": 332,
+      "verdict": "match",
+      "evidence": "offers: EV Cell Manufacturing, Battery Cell Manufacturing, Lithium Metal EV Cell Manufacturing, Automotive-Scale Battery Cell Production.",
+      "reason": "Solid Power explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 378,
+      "verdict": "match",
+      "evidence": "offers: Lithium Metal Anode Technology Development, Solid-State Lithium Battery Manufacturing.",
+      "reason": "Zakuro explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 375,
+      "verdict": "match",
+      "evidence": "lithium-ion battery materials, with a focus on phosphate iron lithium and related cathode materials for new energy vehicles",
+      "reason": "The company explicitly mentions manufacturing and supplying critical components for electric vehicle battery production."
+    },
+    {
+      "row_index": 355,
+      "verdict": "match",
+      "evidence": "lithium-ion battery composition and manufacture, with a focus on next-generation battery technologies",
+      "reason": "The company explicitly mentions manufacturing and supplying critical components for electric vehicle battery production."
+    },
+    {
+      "row_index": 331,
+      "verdict": "match",
+      "evidence": "solid-state batteries and related materials",
+      "reason": "The company explicitly mentions manufacturing and supplying critical components for electric vehicle battery production."
+    },
+    {
+      "row_index": 369,
+      "verdict": "no_match",
+      "evidence": "lithium battery cathode materials, with a focus on lithium iron phosphate manganese (LMFP) as a replacement for iron in lithium iron phosphate (LFP)",
+      "reason": "The company's focus is on cathode materials, but it does not explicitly mention manufacturing or supplying critical components for electric vehicle battery production."
+    },
+    {
+      "row_index": 364,
+      "verdict": "match",
+      "evidence": "lithium battery materials, lithium-ion battery equipment, and graphene materials",
+      "reason": "The company explicitly mentions manufacturing lithium battery materials, which is a critical component for electric vehicle battery production."
+    },
+    {
+      "row_index": 334,
+      "verdict": "match",
+      "evidence": "lithium-ion battery key materials, including composite separator films and solid electrolytes",
+      "reason": "The company explicitly mentions manufacturing solid electrolytes, which is a critical component for electric vehicle battery production."
+    },
+    {
+      "row_index": 340,
+      "verdict": "match",
+      "evidence": "electrolytes for lithium and sodium ion batteries, silicon carbon anode materials",
+      "reason": "The company explicitly mentions manufacturing electrolytes for lithium and sodium ion batteries, which are critical components for electric vehicle battery production."
+    },
+    {
+      "row_index": 335,
+      "verdict": "match",
+      "evidence": "solid-state electrolytes for lithium-ion and sodium batteries",
+      "reason": "The company explicitly mentions manufacturing solid-state electrolytes, which is a critical component for electric vehicle battery production."
+    },
+    {
+      "row_index": 353,
+      "verdict": "match",
+      "evidence": "The company supplies its products to the automotive and energy storage sectors, serving battery manufacturers.",
+      "reason": "The company explicitly mentions supplying critical components for electric vehicle battery production."
+    },
+    {
+      "row_index": 365,
+      "verdict": "match",
+      "evidence": "The company also provides battery leasing services and operates as a vertically integrated manufacturer covering the entire lithium-ion battery manufacturing chain from raw materials to battery packs.",
+      "reason": "The company explicitly mentions manufacturing and supplying critical components for electric vehicle battery production."
+    },
+    {
+      "row_index": 356,
+      "verdict": "insufficient_data",
+      "evidence": "The company focuses on solid polymer electrolyte technology, which is designed to be flame-resistant, flexible, and suitable for roll-to-roll production and integration with standard Li-ion equipment.",
+      "reason": "The company does not explicitly mention manufacturing or supplying critical components for electric vehicle battery production."
+    },
+    {
+      "row_index": 174,
+      "verdict": "no_match",
+      "evidence": "The company serves clients in the maritime sector, renewable energy, and industrial automation industries, providing energy-efficient solutions for marine and industrial use.",
+      "reason": "The company does not explicitly mention manufacturing or supplying critical components for electric vehicle battery production, and its focus is on marine and industrial applications."
+    }
+  ]
+}

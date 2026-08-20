@@ -1,0 +1,304 @@
+{
+  "query_id": "q05",
+  "query": "Construction companies in the United States with revenue over $50 million",
+  "plan": {
+    "country_codes": [
+      "us"
+    ],
+    "numeric_filters": [
+      {
+        "field": "revenue",
+        "op": ">",
+        "value": 50000000.0
+      }
+    ],
+    "semantic_text": "construction companies",
+    "hyde_descriptions": [],
+    "unsupported": [],
+    "boolean_filters": {}
+  },
+  "candidates_after_rerank": [
+    24,
+    34,
+    32,
+    38,
+    28,
+    39,
+    41,
+    37,
+    27,
+    29,
+    26,
+    43,
+    42,
+    36,
+    25,
+    40,
+    33,
+    216,
+    35,
+    30,
+    31,
+    305,
+    268,
+    281,
+    214,
+    286,
+    158,
+    280,
+    285,
+    283,
+    273,
+    246,
+    156,
+    146,
+    279,
+    125,
+    363,
+    224,
+    278,
+    157
+  ],
+  "verdicts": [
+    {
+      "row_index": 24,
+      "verdict": "no_match",
+      "evidence": "The company also operates as a gravel mining company and manages a fleet of mobile hot mix asphalt plants to support its operations across Alaska.",
+      "reason": "Revenue over $50 million requirement not met, as the company's revenue is not explicitly stated to be over $50 million."
+    },
+    {
+      "row_index": 34,
+      "verdict": "match",
+      "evidence": "The company operates primarily in the United States and serves a diverse range of clients across various sectors.",
+      "reason": "The company operates in the United States and has a revenue that is likely over $50 million, given its global presence and diverse client base."
+    },
+    {
+      "row_index": 32,
+      "verdict": "match",
+      "evidence": "The company serves clients across the Pacific Northwest, California, Colorado, and beyond, and is a member of industry associations such as DBIA, LEED AP, and ISPE.",
+      "reason": "The company operates in the United States and has a revenue that is likely over $50 million, given its presence in multiple states and its membership in industry associations."
+    },
+    {
+      "row_index": 38,
+      "verdict": "insufficient_data",
+      "evidence": "The company provides project management, construction consulting, architecture, building, tiling, painting, interior design, and renovation services, serving a global clientele across various industries.",
+      "reason": "The company's revenue is not explicitly stated, and there is no information about its revenue exceeding $50 million."
+    },
+    {
+      "row_index": 28,
+      "verdict": "match",
+      "evidence": "The company operates as a vertical construction arm of MasTec, serving clients across North America and the Caribbean.",
+      "reason": "The company is a construction management and general contracting company in the United States."
+    },
+    {
+      "row_index": 39,
+      "verdict": "match",
+      "evidence": "The company provides general contracting, project management, engineering, equipment manufacturing, federal prime contracting, green building, remote construction, self-performed services, surety services, and virtual design and construction.",
+      "reason": "The company is a construction company in the United States with a wide range of services."
+    },
+    {
+      "row_index": 41,
+      "verdict": "no_match",
+      "evidence": "The company is an American homebuilding company engaged in the construction and sale of residential properties.",
+      "reason": "The company is a new housing for-sale builder, not a construction company with revenue over $50 million."
+    },
+    {
+      "row_index": 37,
+      "verdict": "match",
+      "evidence": "The company provides engineering, design, construction, finance, operation, and maintenance services for transportation infrastructure.",
+      "reason": "The company is a construction company in the United States with a focus on heavy civil infrastructure projects."
+    },
+    {
+      "row_index": 27,
+      "verdict": "match",
+      "evidence": "The company has revenue over $50 million.",
+      "reason": "The company's profile mentions that it is an American construction and engineering company with a network of subsidiaries and offices in the United States, Canada, Mexico, and Alaska, indicating a significant revenue."
+    },
+    {
+      "row_index": 29,
+      "verdict": "no_match",
+      "evidence": "The company's revenue is not explicitly mentioned in the profile.",
+      "reason": "The company's profile does not mention revenue, and it is primarily focused on new housing for-sale builders."
+    },
+    {
+      "row_index": 26,
+      "verdict": "match",
+      "evidence": "The company operates in sectors such as energy, infrastructure, chemicals, government, life sciences, manufacturing, mining and metals, and technology, indicating a significant revenue.",
+      "reason": "The company's profile mentions that it operates in various sectors, including energy and infrastructure, which typically require significant revenue."
+    },
+    {
+      "row_index": 43,
+      "verdict": "match",
+      "evidence": "The company serves markets including technology, healthcare, higher education, life sciences, commercial, hospitality, manufacturing, and office sectors, indicating a significant revenue.",
+      "reason": "The company's profile mentions that it serves various markets, including technology and life sciences, which typically require significant revenue."
+    },
+    {
+      "row_index": 42,
+      "verdict": "match",
+      "evidence": "The company serves construction, government, and private sector clients, with a focus on providing flexible labor solutions, certified flaggers, and material sourcing for DC residents and HUBZone areas.",
+      "reason": "The company's profile explicitly mentions serving construction and government clients, and has a revenue focus on HUBZone areas."
+    },
+    {
+      "row_index": 36,
+      "verdict": "match",
+      "evidence": "The company provides services in energy engineering, nuclear technology, defense, and environmental markets, serving sectors such as energy, infrastructure, manufacturing, mining, and national security.",
+      "reason": "The company's profile explicitly mentions serving sectors such as energy, infrastructure, and national security, which aligns with the query's requirements."
+    },
+    {
+      "row_index": 25,
+      "verdict": "insufficient_data",
+      "evidence": "The company operates a global network with locations in 25 countries and serves industries such as oil and gas, power generation, civil and infrastructure, and commercial construction.",
+      "reason": "The company's profile does not explicitly mention revenue or the United States, making it insufficient to determine a match."
+    },
+    {
+      "row_index": 40,
+      "verdict": "insufficient_data",
+      "evidence": "The company serves governments, military contracts, intelligence communities, and industrial clients worldwide, with a focus on ecological solutions aimed at reducing its global environmental impact.",
+      "reason": "The company's profile does not explicitly mention revenue or the United States, making it insufficient to determine a match."
+    },
+    {
+      "row_index": 33,
+      "verdict": "match",
+      "evidence": "The company provides services such as building services, HVAC systems, life safety and fire protection, and security solutions.",
+      "reason": "The company provides construction services and has revenue over $50 million."
+    },
+    {
+      "row_index": 216,
+      "verdict": "no_match",
+      "evidence": "The company operates a network of big-box stores and e-commerce platforms, offering a broad range of products such as appliances, building materials, home décor, and tools.",
+      "reason": "The company is a retail corporation, not a construction company."
+    },
+    {
+      "row_index": 35,
+      "verdict": "match",
+      "evidence": "The company operates worldwide, providing services such as installation management, support services, coastal resilience, information technology, integrated security, planning and assessment, systems integration, installation, and sustainment.",
+      "reason": "The company provides construction services and has a global presence."
+    },
+    {
+      "row_index": 30,
+      "verdict": "match",
+      "evidence": "The company offers services such as scaffold material rental, shop facilities, field services, project management, construction, maintenance, turnaround projects, and specialized services including scaffolding, insulation, painting, abatement, fireproofing, shoring, facilities maintenance, fabrication, general mechanical services, technical services, and safety services.",
+      "reason": "The company provides construction services and has revenue over $50 million."
+    },
+    {
+      "row_index": 31,
+      "verdict": "match",
+      "evidence": "The company delivers integrated solutions in planning, design, installation, maintenance, and repair of energy and communications infrastructure...",
+      "reason": "The company's profile explicitly mentions construction services for the electric power, renewable energy, communications, pipeline, and industrial sectors, with revenue over $50 million."
+    },
+    {
+      "row_index": 305,
+      "verdict": "no_match",
+      "evidence": "The company provides services in sustainability assessments, energy efficiency, carbon accounting, business strategy integration, data analysis, regulatory navigation, governance, and real estate capital planning.",
+      "reason": "The company's profile does not mention construction services, and its focus is on consulting services for real estate and business."
+    },
+    {
+      "row_index": 268,
+      "verdict": "no_match",
+      "evidence": "The company delivers strategy and design, data and analytics, enterprise technology, digital operations, and specialized offerings such as contact center solutions, AI-powered digital transformation, and cybersecurity services.",
+      "reason": "The company's profile does not mention construction services, and its focus is on technology and services."
+    },
+    {
+      "row_index": 281,
+      "verdict": "no_match",
+      "evidence": "The company provides services in application services, blockchain, cognitive computing, cybersecurity, IT value stream acceleration, agile IT operations, experience design, governance, risk and compliance, infrastructure services, modernization, data management, and product engineering.",
+      "reason": "The company's profile does not mention construction services, and its focus is on technology and consulting services."
+    },
+    {
+      "row_index": 214,
+      "verdict": "no_match",
+      "evidence": "Walmart also provides business retail services, such as Walmart Business, and operates Sam's Club retail warehouses.",
+      "reason": "Revenue over $50 million requirement not explicitly mentioned"
+    },
+    {
+      "row_index": 286,
+      "verdict": "no_match",
+      "evidence": "CACI International Inc is an American multinational company that provides professional services and information technology solutions for national security, government, and private sector clients.",
+      "reason": "Construction companies requirement not met"
+    },
+    {
+      "row_index": 158,
+      "verdict": "insufficient_data",
+      "evidence": "ZenLabs is a United States company engaged in data science as a service, digital business transformation, and digital engineering.",
+      "reason": "No revenue information provided"
+    },
+    {
+      "row_index": 280,
+      "verdict": "no_match",
+      "evidence": "Booz Allen Hamilton Inc. is an American company that provides management and technology consulting, cybersecurity services, digital transformation solutions, and artificial intelligence and cloud computing services.",
+      "reason": "Construction companies requirement not met"
+    },
+    {
+      "row_index": 285,
+      "verdict": "no_match",
+      "evidence": "The company operates through two main segments: Apex Systems, which delivers technology and creative digital marketing services, and ECS, which provides mission-critical IT services to government agencies.",
+      "reason": "The company's profile does not mention revenue over $50 million, and it does not explicitly state that it is a construction company."
+    },
+    {
+      "row_index": 283,
+      "verdict": "match",
+      "evidence": "The company delivers solutions in areas such as mission IT, enterprise IT, cybersecurity, cloud services, and artificial intelligence-driven tools.",
+      "reason": "The company's profile explicitly mentions that it provides IT services, which is a requirement of the query, and it operates in the government sector, which is also a requirement."
+    },
+    {
+      "row_index": 273,
+      "verdict": "no_match",
+      "evidence": "The company provides services in data and AI, digital technology, advisory services, and business functions such as finance and accounting, risk and compliance, supply chain management, customer care, human resources management, sales and commercial, sourcing and procurement, sustainability, and trust and safety.",
+      "reason": "The company's profile does not mention construction or revenue over $50 million."
+    },
+    {
+      "row_index": 246,
+      "verdict": "no_match",
+      "evidence": "The company operates manufacturing and distribution facilities in the United States, Puerto Rico, the Dominican Republic, and Spain, supplying products such as beans, rice, seasonings, snacks, beverages, and frozen ingredients to both Hispanic and mainstream markets.",
+      "reason": "The company's profile does not mention construction or revenue over $50 million."
+    },
+    {
+      "row_index": 156,
+      "verdict": "no_match",
+      "evidence": "Omnia AI is a United States company engaged in providing a platform-as-a-service solution for machine learning model deployment and monitoring.",
+      "reason": "The profile does not mention revenue over $50 million, nor does it explicitly state that it is a construction company."
+    },
+    {
+      "row_index": 146,
+      "verdict": "no_match",
+      "evidence": "Efemarai Continuum is a United States company specialized in artificial intelligence and machine learning, with a focus on quality assurance, software development, and model visualization.",
+      "reason": "The profile does not mention revenue over $50 million, nor does it explicitly state that it is a construction company."
+    },
+    {
+      "row_index": 279,
+      "verdict": "match",
+      "evidence": "Leidos, Inc. is an American company that operates as a systems integrator, engineering firm, and information technology services provider.",
+      "reason": "The profile mentions that Leidos is an engineering firm, which implies construction services, and it is a US company with no explicit revenue limit mentioned."
+    },
+    {
+      "row_index": 125,
+      "verdict": "no_match",
+      "evidence": "Aquarium is a United States software company specializing in machine learning data operations and management.",
+      "reason": "The profile does not mention revenue over $50 million, nor does it explicitly state that it is a construction company."
+    },
+    {
+      "row_index": 363,
+      "verdict": "no_match",
+      "evidence": "The company operates in the semiconductor and renewable energy sectors...",
+      "reason": "Revenue over $50 million is not mentioned in the profile"
+    },
+    {
+      "row_index": 224,
+      "verdict": "no_match",
+      "evidence": "The company operates a chain of supermarkets and convenience stores...",
+      "reason": "Construction companies are not mentioned in the profile"
+    },
+    {
+      "row_index": 278,
+      "verdict": "no_match",
+      "evidence": "The company provides software engineering, digital platform engineering, and digital product design services...",
+      "reason": "Construction companies are not mentioned in the profile"
+    },
+    {
+      "row_index": 157,
+      "verdict": "insufficient_data",
+      "evidence": "The company develops and provides products such as Explainable AI, ML Monitoring, ML Audit, and Policy Control...",
+      "reason": "No information about revenue or construction industry is mentioned in the profile"
+    }
+  ]
+}

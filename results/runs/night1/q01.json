@@ -1,0 +1,200 @@
+{
+  "query_id": "q01",
+  "query": "Logistic companies in Romania",
+  "plan": {
+    "country_codes": [
+      "ro"
+    ],
+    "numeric_filters": [],
+    "semantic_text": "logistic companies",
+    "hyde_descriptions": [],
+    "unsupported": [],
+    "boolean_filters": {}
+  },
+  "candidates_after_rerank": [
+    21,
+    20,
+    13,
+    3,
+    16,
+    19,
+    9,
+    5,
+    15,
+    8,
+    2,
+    22,
+    6,
+    10,
+    14,
+    18,
+    12,
+    0,
+    1,
+    7,
+    11,
+    17,
+    65,
+    329,
+    23,
+    4
+  ],
+  "verdicts": [
+    {
+      "row_index": 21,
+      "verdict": "match",
+      "evidence": "The company supplies and rents forklifts, transport and towing equipment, and internal logistics solutions...",
+      "reason": "The company explicitly mentions providing logistics solutions."
+    },
+    {
+      "row_index": 20,
+      "verdict": "match",
+      "evidence": "The company operates facilities that include airport logistics and smart city logistics hubs.",
+      "reason": "The company explicitly mentions providing logistics facilities."
+    },
+    {
+      "row_index": 13,
+      "verdict": "no_match",
+      "evidence": "The company manages a central logistics platform for distribution and supply chain management.",
+      "reason": "The company's primary focus is on wholesale and retail, not logistics."
+    },
+    {
+      "row_index": 3,
+      "verdict": "no_match",
+      "evidence": "The company serves clients in sectors including hotels, office, retail, industrial, logistics, and alternative property types.",
+      "reason": "The company's primary focus is on commercial real estate, not logistics."
+    },
+    {
+      "row_index": 16,
+      "verdict": "match",
+      "evidence": "The company operates a nationwide network of gas stations, manages in-house fuelling stations, and provides fuel card solutions for fleet and business clients.",
+      "reason": "The company explicitly mentions operating a network of gas stations and providing fuel card solutions, which matches the query's requirement for logistic companies in Romania."
+    },
+    {
+      "row_index": 19,
+      "verdict": "match",
+      "evidence": "The company operates internationally, serving clients in the industrial, petroleum, construction, and beverage sectors, and provides services such as aligning suppliers and buyers, managing transactions, and offering financial solutions.",
+      "reason": "The company explicitly mentions operating internationally and providing logistics management services, which matches the query's requirement for logistic companies in Romania."
+    },
+    {
+      "row_index": 9,
+      "verdict": "no_match",
+      "evidence": "The company operates as a wholesaler, distributor, and retailer, supplying pharmaceutical products to retail locations and pharmacies through a network of logistics centers and regional warehouses.",
+      "reason": "The company's primary focus is on pharmaceuticals and healthcare products, which does not match the query's requirement for logistic companies in Romania."
+    },
+    {
+      "row_index": 5,
+      "verdict": "match",
+      "evidence": "The company provides products and services such as gasoline, diesel, aviation fuel, bitumen, and chemical products, and manages fuel stations and gas storage facilities across multiple European countries.",
+      "reason": "The company explicitly mentions managing fuel stations and providing logistics services, which matches the query's requirement for logistic companies in Romania."
+    },
+    {
+      "row_index": 15,
+      "verdict": "match",
+      "evidence": "The company serves the entire Romanian territory and is active in the postal organization and logistics sectors.",
+      "reason": "The company explicitly mentions being active in the logistics sector."
+    },
+    {
+      "row_index": 8,
+      "verdict": "no_match",
+      "evidence": "The company operates as a manufacturer and distributor, offering a range of vehicles and providing services such as vehicle financing, trade-in options, and maintenance contracts.",
+      "reason": "The company is primarily an automotive manufacturer and distributor, not a logistics company."
+    },
+    {
+      "row_index": 2,
+      "verdict": "no_match",
+      "evidence": "The company supplies fuels and related products to both individual and business clients in Romania, Moldova, Bulgaria, Georgia, and Kazakhstan, and is involved in the development of energy projects through its participation in the Kazakh-Romanian Energy Investment Fund.",
+      "reason": "The company is primarily an energy company, not a logistics company."
+    },
+    {
+      "row_index": 22,
+      "verdict": "no_match",
+      "evidence": "The company operates a logistics and production center and exports its products to over 40 countries, with a significant market presence in China.",
+      "reason": "The company is primarily a manufacturer of composite pipe products, not a logistics company."
+    },
+    {
+      "row_index": 6,
+      "verdict": "match",
+      "evidence": "The company oversees both public and private railway networks, providing access to terminals and stations, and offers services such as ticket sales and information.",
+      "reason": "The company provides services related to logistics, specifically railway services."
+    },
+    {
+      "row_index": 10,
+      "verdict": "match",
+      "evidence": "The company provides port management, cargo handling, and related services, including dry bulk, container, general cargo, liquid bulk, and roll-on/roll-off operations.",
+      "reason": "The company provides services related to logistics, specifically port and harbor operations."
+    },
+    {
+      "row_index": 14,
+      "verdict": "no_match",
+      "evidence": "The company is engaged in the technical operation and management of the national gas transmission system.",
+      "reason": "The company's services are related to natural gas transmission, not logistics."
+    },
+    {
+      "row_index": 18,
+      "verdict": "no_match",
+      "evidence": "The company specializes in the supply and distribution of lubricants and related products for the industrial and automotive sectors.",
+      "reason": "The company's services are related to lubricants distribution, not logistics."
+    },
+    {
+      "row_index": 12,
+      "verdict": "no_match",
+      "evidence": "The company also operates as an electricity producer and supplier, and provides technological transportation services.",
+      "reason": "The query asks for logistic companies, but the profile mentions electricity production and technological transportation services, which are not logistics."
+    },
+    {
+      "row_index": 0,
+      "verdict": "match",
+      "evidence": "The company operates as a subsidiary of KMG International and manages integrated refineries in Romania, Moldova, Bulgaria, and Georgia, serving the automotive, industrial, and energy sectors.",
+      "reason": "The profile mentions logistics-related activities such as managing integrated refineries and serving various sectors."
+    },
+    {
+      "row_index": 1,
+      "verdict": "no_match",
+      "evidence": "The company serves the Romanian market and is part of the Unilever Group, which operates globally.",
+      "reason": "The query asks for logistic companies, but the profile mentions distribution and retail of consumer goods, which is not logistics."
+    },
+    {
+      "row_index": 7,
+      "verdict": "no_match",
+      "evidence": "The company operates as a service provider and distributor in the automotive sector, offering vehicle sales, maintenance, repair, and eMobility solutions, as well as fleet management services.",
+      "reason": "The query asks for logistic companies, but the profile mentions vehicle sales, maintenance, and repair, which are not logistics."
+    },
+    {
+      "row_index": 11,
+      "verdict": "no_match",
+      "evidence": "The company operates multiple facilities across Romania, providing crushing, refining, bottling, and biodiesel production services.",
+      "reason": "The query asks for 'logistic companies', but the company's profile focuses on processing and production services, not logistics."
+    },
+    {
+      "row_index": 17,
+      "verdict": "match",
+      "evidence": "The company operates an integrated business model encompassing oilseed processing, refining, bottling, and marketing of vegetable oils, as well as the distribution of grain and the provision of transport and storage services.",
+      "reason": "The company's profile explicitly mentions 'distribution of grain' and 'provision of transport and storage services', which matches the query's requirements."
+    },
+    {
+      "row_index": 65,
+      "verdict": "no_match",
+      "evidence": "The company offers a comprehensive platform that covers areas such as recruitment, onboarding, staffing, time and attendance, payroll, performance management, training management, employee self-service, internal communication, and HR analytics.",
+      "reason": "The query asks for 'logistic companies', but the company's profile focuses on HR software solutions, not logistics."
+    },
+    {
+      "row_index": 329,
+      "verdict": "no_match",
+      "evidence": "The company provides services such as carbon footprint calculation, sustainability reporting, and Net Zero compliance, utilizing technologies including Blockchain, AI, and sensors.",
+      "reason": "The query asks for 'logistic companies', but the company's profile focuses on environmental consulting services, not logistics."
+    },
+    {
+      "row_index": 23,
+      "verdict": "no_match",
+      "evidence": "The company operates as a holding with subsidiaries in the food and drink sector, serving both domestic and international markets.",
+      "reason": "The profile mentions food and drink sector, but does not explicitly mention logistics."
+    },
+    {
+      "row_index": 4,
+      "verdict": "no_match",
+      "evidence": "The company operates globally, with a presence in Europe, America, Asia, and Africa, and collaborates with scientific institutes and universities to advance its research and development activities.",
+      "reason": "The profile mentions global operations, but does not explicitly mention logistics or transportation services."
+    }
+  ]
+}

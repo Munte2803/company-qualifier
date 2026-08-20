@@ -1,0 +1,298 @@
+{
+  "query_id": "q02",
+  "query": "Public software companies with more than 1,000 employees.",
+  "plan": {
+    "country_codes": [],
+    "numeric_filters": [
+      {
+        "field": "employee_count",
+        "op": ">",
+        "value": 1000.0
+      }
+    ],
+    "semantic_text": "software companies",
+    "hyde_descriptions": [],
+    "unsupported": [],
+    "boolean_filters": {
+      "is_public": true
+    }
+  },
+  "candidates_after_rerank": [
+    282,
+    272,
+    274,
+    276,
+    277,
+    286,
+    214,
+    278,
+    283,
+    271,
+    285,
+    268,
+    281,
+    275,
+    279,
+    270,
+    273,
+    280,
+    216,
+    269,
+    284,
+    443,
+    241,
+    267,
+    459,
+    12,
+    444,
+    181,
+    34,
+    421,
+    39,
+    451,
+    217,
+    31,
+    473,
+    26,
+    33,
+    460,
+    468,
+    41
+  ],
+  "verdicts": [
+    {
+      "row_index": 282,
+      "verdict": "match",
+      "evidence": "The company provides software product development, mobile application development, social network development, and mainframe migration",
+      "reason": "The company explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 272,
+      "verdict": "match",
+      "evidence": "The company serves a wide range of industries, including automotive, banking, education, energy, healthcare, insurance, life sciences, manufacturing, retail, telecommunications, media, technology, and travel",
+      "reason": "The company explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 274,
+      "verdict": "insufficient_data",
+      "evidence": "The company provides IT services and solutions, including business and digital transformation, network and security services, IT and infrastructure operations, hybrid IT and cloud services, and consulting",
+      "reason": "The company's profile does not explicitly confirm or deny having more than 1,000 employees."
+    },
+    {
+      "row_index": 276,
+      "verdict": "match",
+      "evidence": "The company provides business consulting, systems integration, managed IT services, application services, infrastructure services, business process management, and intellectual property solutions",
+      "reason": "The company explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 277,
+      "verdict": "match",
+      "evidence": "The company operates internationally, serving businesses, institutions, and communities in over 61 countries.",
+      "reason": "The company has more than 1,000 employees and operates internationally."
+    },
+    {
+      "row_index": 286,
+      "verdict": "match",
+      "evidence": "The company operates in consulting, defense, information technology, and outsourcing, offering services such as enterprise IT, mission and engineering support, space and spectrum superiority, cyber and digital solutions, and government property management.",
+      "reason": "The company has more than 1,000 employees and operates in multiple sectors."
+    },
+    {
+      "row_index": 214,
+      "verdict": "no_match",
+      "evidence": "Walmart Stores, Inc. is an American retail corporation engaged in the operation of hypermarkets, discount department stores, grocery stores, and online retail platforms.",
+      "reason": "The company is primarily a retail corporation and does not explicitly mention being a public software company."
+    },
+    {
+      "row_index": 278,
+      "verdict": "match",
+      "evidence": "The company also offers digital transformation consulting, cloud and data analytics solutions, artificial intelligence and cybersecurity services, and digital business process outsourcing.",
+      "reason": "The company has more than 1,000 employees and offers software engineering services."
+    },
+    {
+      "row_index": 283,
+      "verdict": "match",
+      "evidence": "The company delivers solutions in areas such as mission IT, enterprise IT, cybersecurity, cloud services, and artificial intelligence-driven tools.",
+      "reason": "The company explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 271,
+      "verdict": "insufficient_data",
+      "evidence": "The company serves corporate clients and government entities across Australia, providing services such as program and project management, business analytics and data, strategic advisory, productivity services, managed application services, and robotics process automation.",
+      "reason": "The company's profile does not explicitly confirm or deny having more than 1,000 employees."
+    },
+    {
+      "row_index": 285,
+      "verdict": "insufficient_data",
+      "evidence": "The company operates through two main segments: Apex Systems, which delivers technology and creative digital marketing services, and ECS, which provides mission-critical IT services to government agencies.",
+      "reason": "The company's profile does not explicitly confirm or deny having more than 1,000 employees."
+    },
+    {
+      "row_index": 268,
+      "verdict": "insufficient_data",
+      "evidence": "The company delivers strategy and design, data and analytics, enterprise technology, digital operations, and specialized offerings such as contact center solutions, AI-powered digital transformation, and cybersecurity services.",
+      "reason": "The company's profile does not explicitly confirm or deny having more than 1,000 employees."
+    },
+    {
+      "row_index": 281,
+      "verdict": "match",
+      "evidence": "Mphasis serves clients across sectors such as banking, insurance, healthcare, life sciences, oil and gas, public sector, technology, communications, energy and utilities, logistics, and manufacturing",
+      "reason": "Company has more than 1,000 employees and serves public sector clients"
+    },
+    {
+      "row_index": 275,
+      "verdict": "insufficient_data",
+      "evidence": "Telefónica Venture Builder also engages in the creation of new companies based on digital technologies and collaborates with startups in sectors including financial services, e-commerce, media, entertainment, and logistics",
+      "reason": "Company's profile does not explicitly state the number of employees or confirm serving public software companies"
+    },
+    {
+      "row_index": 279,
+      "verdict": "match",
+      "evidence": "Leidos delivers solutions in national security, health, defense, energy, government, and space sectors",
+      "reason": "Company has more than 1,000 employees and serves government clients"
+    },
+    {
+      "row_index": 270,
+      "verdict": "match",
+      "evidence": "Wipro serves clients across sectors including banking, financial services, telecommunications, media and information services, consumer goods, education, public sector, retail, travel, energy, manufacturing, aerospace, automotive, industrial manufacturing, natural resources, oil and gas, utilities, healthcare, life sciences, medical devices, technology products and services, and consumer electronics",
+      "reason": "Company has more than 1,000 employees and serves public sector clients"
+    },
+    {
+      "row_index": 273,
+      "verdict": "match",
+      "evidence": "The company provides services in data and AI, digital technology, advisory services, and business functions such as finance and accounting, risk and compliance, supply chain management, customer care, human resources management, sales and commercial, sourcing and procurement, sustainability, and trust and safety.",
+      "reason": "The company has more than 1,000 employees and provides software services."
+    },
+    {
+      "row_index": 280,
+      "verdict": "match",
+      "evidence": "The company provides management and technology consulting, cybersecurity services, digital transformation solutions, and artificial intelligence and cloud computing services.",
+      "reason": "The company has more than 1,000 employees and provides software services."
+    },
+    {
+      "row_index": 216,
+      "verdict": "insufficient_data",
+      "evidence": "The company operates a network of big-box stores and e-commerce platforms, offering a broad range of products such as appliances, building materials, home décor, and tools, as well as providing home services including flooring installation, bathroom remodeling, and smart home installations.",
+      "reason": "The company's profile does not explicitly mention software services or the number of employees."
+    },
+    {
+      "row_index": 269,
+      "verdict": "match",
+      "evidence": "The company provides services across applications, consulting, infrastructure, financials, business processing, operational technology, engineering, workforce strategies, and technology projects.",
+      "reason": "The company has more than 1,000 employees and provides software services."
+    },
+    {
+      "row_index": 284,
+      "verdict": "match",
+      "evidence": "The company provides services in cloud solutions, data-driven business transformation, intelligent automation, user experience services, cybersecurity, and AI-powered solutions.",
+      "reason": "The company explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 443,
+      "verdict": "no_match",
+      "evidence": "The company is a pharmaceutical corporation engaged in the development, manufacturing, and distribution of pharmaceuticals, vaccines, generic drugs, contact lenses, diagnostics, animal health products, over-the-counter drugs, and veterinary medicine.",
+      "reason": "The company contradicts the requirement of being a public software company."
+    },
+    {
+      "row_index": 241,
+      "verdict": "no_match",
+      "evidence": "Lululemon Athletica Inc. is a Canadian multinational company engaged in the retail of technical apparel, athletic shoes, loungewear, and related lifestyle products.",
+      "reason": "The company contradicts the requirement of being a public software company."
+    },
+    {
+      "row_index": 267,
+      "verdict": "match",
+      "evidence": "Tata Consultancy Services Limited is an Indian multinational technology company that provides information technology consulting, outsourcing, and software services.",
+      "reason": "The company explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 459,
+      "verdict": "match",
+      "evidence": "The company operates internationally, with facilities in Switzerland, the United States, and Asia, and is certified for GMP compliance.",
+      "reason": "More than 1,000 employees and public software company."
+    },
+    {
+      "row_index": 12,
+      "verdict": "no_match",
+      "evidence": "The company is a natural gas extraction company, not a software company.",
+      "reason": "Does not match the query."
+    },
+    {
+      "row_index": 444,
+      "verdict": "match",
+      "evidence": "The company operates across three business platforms—Integrated Biologics, Advanced Synthesis, and Specialized Modalities—offering services such as custom manufacturing, product development, and detection systems for the pharmaceutical and biotechnology sectors.",
+      "reason": "More than 1,000 employees and public software company."
+    },
+    {
+      "row_index": 181,
+      "verdict": "no_match",
+      "evidence": "The company is a turbine and turbine generator set units manufacturing company, not a software company.",
+      "reason": "Does not match the query."
+    },
+    {
+      "row_index": 34,
+      "verdict": "no_match",
+      "evidence": "Skanska AB is a Swedish construction and development company engaged in project development, construction, and development services for residential, commercial, and infrastructure projects.",
+      "reason": "Skanska is a construction company, not a software company."
+    },
+    {
+      "row_index": 421,
+      "verdict": "no_match",
+      "evidence": "Magnora ASA is a Norwegian public company engaged in the development and management of data center and renewable energy projects, with activities in solar photovoltaic (PV), wind energy, and battery energy storage systems.",
+      "reason": "Magnora is a renewable energy company, not a software company."
+    },
+    {
+      "row_index": 39,
+      "verdict": "insufficient_data",
+      "evidence": "The company provides general contracting, project management, engineering, equipment manufacturing, federal prime contracting, green building, remote construction, self-performed services, surety services, and virtual design and construction.",
+      "reason": "There is no mention of software or public software companies with more than 1,000 employees."
+    },
+    {
+      "row_index": 217,
+      "verdict": "insufficient_data",
+      "evidence": "US Foods also offers e-commerce and business solutions, including digital platforms and business tools",
+      "reason": "Does not explicitly mention software"
+    },
+    {
+      "row_index": 31,
+      "verdict": "insufficient_data",
+      "evidence": "Quanta Services, Inc. is an American corporation that provides infrastructure contracting and engineering services",
+      "reason": "Does not explicitly mention software"
+    },
+    {
+      "row_index": 473,
+      "verdict": "insufficient_data",
+      "evidence": "ADC Therapeutics SA is a Swiss biotechnology company engaged in the research, development, manufacturing, and commercialization of antibody drug conjugates",
+      "reason": "Does not explicitly mention software"
+    },
+    {
+      "row_index": 26,
+      "verdict": "insufficient_data",
+      "evidence": "Fluor Corporation is an American engineering, procurement, and construction company that provides engineering, procurement, construction, maintenance, and project management services",
+      "reason": "Does not explicitly mention software"
+    },
+    {
+      "row_index": 33,
+      "verdict": "insufficient_data",
+      "evidence": "The company provides services such as building services, HVAC systems, life safety and fire protection, and security solutions.",
+      "reason": "Does not explicitly mention software companies"
+    },
+    {
+      "row_index": 460,
+      "verdict": "no_match",
+      "evidence": "The company serves a broad market of over 260 million people in more than 140 countries, with a focus on research and development and a commitment to advancing access to eye care.",
+      "reason": "Does not mention software companies or more than 1,000 employees"
+    },
+    {
+      "row_index": 468,
+      "verdict": "no_match",
+      "evidence": "The company develops therapies for a range of diseases, including hemoglobinopathies, immuno-oncology, autoimmune diseases, in vivo gene editing, and regenerative medicine.",
+      "reason": "Does not mention software companies or more than 1,000 employees"
+    },
+    {
+      "row_index": 41,
+      "verdict": "no_match",
+      "evidence": "The company operates under multiple brands and serves a range of homebuyers, including first-time, move-up, and active-adult buyers, across over 45 markets in the United States.",
+      "reason": "Does not mention software companies or more than 1,000 employees"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "query_id": "q04",
+  "query": "Companies that could supply packaging materials for a direct-to-consumer cosmetics brand",
+  "plan": {
+    "country_codes": [
+      "ch"
+    ],
+    "numeric_filters": [],
+    "semantic_text": "companies that could supply packaging materials for a direct-to-consumer cosmetics brand",
+    "hyde_descriptions": [
+      "Specialized packaging solutions provider for direct-to-consumer cosmetics brands",
+      "Expert supplier of eco-friendly packaging materials for cosmetics companies",
+      "Custom packaging solutions expert for direct-to-consumer cosmetics brands"
+    ],
+    "unsupported": [],
+    "boolean_filters": {}
+  },
+  "candidates_after_rerank": [
+    451,
+    475,
+    448,
+    459,
+    454,
+    455,
+    450,
+    443,
+    453,
+    449,
+    458,
+    462,
+    461,
+    444,
+    456,
+    476,
+    470,
+    446,
+    457,
+    463,
+    74,
+    474,
+    445,
+    471,
+    460,
+    464,
+    447,
+    472,
+    465,
+    467,
+    452,
+    468,
+    473,
+    374,
+    469,
+    88,
+    81,
+    304,
+    312,
+    301
+  ],
+  "verdicts": [
+    {
+      "row_index": 451,
+      "verdict": "match",
+      "evidence": "Pharmaceutical Packaging and Labeling Services",
+      "reason": "The company explicitly mentions packaging services for pharmaceutical clients."
+    },
+    {
+      "row_index": 475,
+      "verdict": "match",
+      "evidence": "Finished Dosage Form Packaging",
+      "reason": "The company explicitly mentions packaging services for finished dosage forms."
+    },
+    {
+      "row_index": 448,
+      "verdict": "no_match",
+      "evidence": "Consumer Dermatological Product Manufacturing",
+      "reason": "The company's focus is on dermatological treatments and skin care products, not packaging materials for cosmetics."
+    },
+    {
+      "row_index": 459,
+      "verdict": "match",
+      "evidence": "Cosmetics Manufacturing",
+      "reason": "The company explicitly mentions manufacturing services for cosmetics, which includes packaging materials."
+    },
+    {
+      "row_index": 454,
+      "verdict": "no_match",
+      "evidence": "Pharmaceutical Packaging Services",
+      "reason": "The company offers packaging services, but it's not clear if they supply packaging materials for cosmetics."
+    },
+    {
+      "row_index": 455,
+      "verdict": "match",
+      "evidence": "Cosmetic Peptide Manufacturing",
+      "reason": "The company explicitly mentions manufacturing peptides for cosmetics."
+    },
+    {
+      "row_index": 450,
+      "verdict": "no_match",
+      "evidence": "Capsule Manufacturing and Distribution",
+      "reason": "The company specializes in capsule manufacturing, but it's not clear if they supply packaging materials for cosmetics."
+    },
+    {
+      "row_index": 443,
+      "verdict": "no_match",
+      "evidence": "Pharmaceutical Product Research and Development",
+      "reason": "The company's focus is on pharmaceuticals, not cosmetics, and they don't explicitly mention packaging materials."
+    },
+    {
+      "row_index": 453,
+      "verdict": "no_match",
+      "evidence": "The company operates in therapeutic areas such as aesthetics, allergology, cardiovascular diseases, and women’s health, and provides contract manufacturing and out-licensing services to pharmaceutical companies.",
+      "reason": "The query is looking for companies that supply packaging materials, but Acino's profile focuses on pharmaceutical manufacturing and services."
+    },
+    {
+      "row_index": 449,
+      "verdict": "no_match",
+      "evidence": "The company also conducts research and development activities, including drug discovery and product development, and is involved in co-promotion agreements.",
+      "reason": "The query is looking for companies that supply packaging materials, but Sumitomo Pharma Switzerland's profile focuses on pharmaceutical manufacturing, research, and development."
+    },
+    {
+      "row_index": 458,
+      "verdict": "no_match",
+      "evidence": "The company serves healthcare professionals and the pharmaceutical industry globally, with a focus on areas such as reproductive medicine, endocrinology, pain and inflammation, osteoarticular diseases, aesthetic medicine, dermatology, uro-gynaecology, cardiometabolic diseases, and respiratory diseases.",
+      "reason": "The query is looking for companies that supply packaging materials, but IBSA's profile focuses on pharmaceutical manufacturing and product distribution."
+    },
+    {
+      "row_index": 462,
+      "verdict": "match",
+      "evidence": "The company also provides training and support for healthcare professionals and patients, and operates internationally through subsidiaries and distributors in multiple regions.",
+      "reason": "Teoxane's profile mentions 'aesthetic medicine product distribution', which could imply packaging materials for cosmetics, and they also operate internationally."
+    },
+    {
+      "row_index": 461,
+      "verdict": "no_match",
+      "evidence": "packaging materials",
+      "reason": "No mention of packaging materials in the profile"
+    },
+    {
+      "row_index": 444,
+      "verdict": "no_match",
+      "evidence": "packaging materials",
+      "reason": "No mention of packaging materials in the profile"
+    },
+    {
+      "row_index": 456,
+      "verdict": "no_match",
+      "evidence": "packaging materials",
+      "reason": "No mention of packaging materials in the profile"
+    },
+    {
+      "row_index": 476,
+      "verdict": "insufficient_data",
+      "evidence": "Pharmaceutical Product Manufacturing",
+      "reason": "Mention of manufacturing, but no specific mention of packaging materials"
+    },
+    {
+      "row_index": 470,
+      "verdict": "no_match",
+      "evidence": "Pharmaceutical Commercialization and Distribution, Pharmaceutical Research and Development, Pharmacovigilance Services, Pharmaceutical Manufacturing, Oncology Drug Development, Direct Pharmaceutical Sales, Supportive Care Product Development, Pharmaceutical Business Development Services, Pharmaceutical Licensing and Partnerships, Nutritional Supplement Manufacturing, Medical Device Manufacturing, Rare Disease Drug Development.",
+      "reason": "The company's profile focuses on pharmaceuticals, but does not mention packaging materials or direct-to-consumer cosmetics."
+    },
+    {
+      "row_index": 446,
+      "verdict": "match",
+      "evidence": "Medical Nutrition Product Manufacturing, Nutritional Product Manufacturing, Nutritional Product Research and Development, Pharmaceutical Solution Development, Active Lifestyle Nutrition Product Manufacturing, Global Nutrition Product Distribution, Nutrition Science Research and Innovation, Digital Health Solution Development, Healthcare Partnership Development, Healthcare Solutions Development, Patient and Caregiver Support Services, Nutrition Outcome Improvement Services, E-Health Platform Development.",
+      "reason": "The company offers nutritional product manufacturing, which could be related to packaging materials for cosmetics."
+    },
+    {
+      "row_index": 457,
+      "verdict": "no_match",
+      "evidence": "Allergen Immunotherapy Product Development, Oral Peanut Allergy Immunotherapy Manufacturing, Veterinary Allergen Immunotherapy Development, Allergy Product Global Distribution, Allergy Research Foundation Support Services, Subcutaneous Allergen Immunotherapy Manufacturing, Precision Medicine Solutions Development, Personalized Allergy Treatment Services, Allergy Research and Development, Sublingual Allergen Immunotherapy Manufacturing, Allergy Diagnosis and Treatment Services, Allergy Product Commercialization.",
+      "reason": "The company's profile focuses on allergy treatments and does not mention packaging materials or direct-to-consumer cosmetics."
+    },
+    {
+      "row_index": 463,
+      "verdict": "no_match",
+      "evidence": "Chronic Venous Insufficiency Treatment Solutions, Biopharmaceutical Product Research and Development, Urinary Tract Infection Treatment Solutions, Infectious Disease Treatment Solutions, Menometrorragia Treatment Solutions, International Biopharmaceutical Partnership Development, Vascular Disease Treatment Solutions, Hemorrhoid Treatment Solutions, Bacterial Lysate Manufacturing, Immunomodulator Manufacturing, Respiratory Tract Infection Treatment Solutions, Immunological Disorder Treatment Solutions, Microangiopathy Treatment Solutions, Immunotherapeutic Product Development, Biopharmaceutical Product Distribution.",
+      "reason": "The company's profile focuses on biopharmaceuticals and does not mention packaging materials or direct-to-consumer cosmetics."
+    },
+    {
+      "row_index": 74,
+      "verdict": "no_match",
+      "evidence": "NOVATIVE SA is a Swiss private company that provides human resources and payroll outsourcing services, as well as HR management software solutions.",
+      "reason": "No mention of packaging materials or supply chain services"
+    },
+    {
+      "row_index": 474,
+      "verdict": "no_match",
+      "evidence": "Tillotts Pharma AG is a Swiss pharmaceutical company engaged in the development, in/out-licensing, and marketing of pharmaceutical products for gastroenterology, with a focus on inflammatory bowel diseases.",
+      "reason": "No mention of packaging materials or supply chain services"
+    },
+    {
+      "row_index": 445,
+      "verdict": "no_match",
+      "evidence": "Octapharma AG is a Swiss pharmaceutical company engaged in the development, manufacturing, and distribution of human protein-based therapies.",
+      "reason": "No mention of packaging materials or supply chain services"
+    },
+    {
+      "row_index": 471,
+      "verdict": "no_match",
+      "evidence": "TRB CHEMEDICA INTERNATIONAL SA, DBA TRB Chemedica, is a Swiss pharmaceutical company engaged in the development, manufacturing, and distribution of hyaluronic acid-based medical devices, medical food supplements, and pharmaceutical products.",
+      "reason": "No mention of packaging materials or supply chain services"
+    },
+    {
+      "row_index": 460,
+      "verdict": "no_match",
+      "evidence": "ophthalmic pharmaceutical products and services",
+      "reason": "The company's focus is on ophthalmic pharmaceutical products and services, not packaging materials for cosmetics."
+    },
+    {
+      "row_index": 464,
+      "verdict": "no_match",
+      "evidence": "Pharmaceutical Manufacturing",
+      "reason": "The company's manufacturing capabilities are for pharmaceuticals, not packaging materials."
+    },
+    {
+      "row_index": 447,
+      "verdict": "no_match",
+      "evidence": "Pharmaceutical Manufacturing",
+      "reason": "The company's manufacturing capabilities are for pharmaceuticals, not packaging materials."
+    },
+    {
+      "row_index": 472,
+      "verdict": "insufficient_data",
+      "evidence": "GMP-Compliant Biologics Manufacturing",
+      "reason": "The company's services are for biologics, but there is no mention of packaging materials for cosmetics."
+    },
+    {
+      "row_index": 465,
+      "verdict": "match",
+      "evidence": "Dietary Supplement Manufacturing",
+      "reason": "AbelaPharm offers dietary supplement manufacturing services"
+    },
+    {
+      "row_index": 467,
+      "verdict": "no_match",
+      "evidence": "Drug Manufacturing",
+      "reason": "Debiopharm's drug manufacturing is for prescription drugs, not packaging materials for cosmetics"
+    },
+    {
+      "row_index": 452,
+      "verdict": "no_match",
+      "evidence": "Pharmaceutical Manufacturing Support Services",
+      "reason": "PSI CRO's pharmaceutical manufacturing support is for clinical trials, not packaging materials for cosmetics"
+    },
+    {
+      "row_index": 468,
+      "verdict": "no_match",
+      "evidence": "Gene-Based Medicine Development",
+      "reason": "CRISPR Therapeutics develops gene-based medicines, not packaging materials for cosmetics"
+    },
+    {
+      "row_index": 473,
+      "verdict": "no_match",
+      "evidence": "ADC Therapeutics SA is a Swiss biotechnology company engaged in the research, development, manufacturing, and commercialization of antibody drug conjugates (ADCs) for the treatment of hematological malignancies and solid tumors.",
+      "reason": "No mention of packaging materials or direct-to-consumer cosmetics."
+    },
+    {
+      "row_index": 374,
+      "verdict": "no_match",
+      "evidence": "Greenbatt Technology Holding AG is a Swiss company engaged in battery technology, with a focus on lithium-ion and solid-state batteries.",
+      "reason": "No mention of packaging materials or direct-to-consumer cosmetics."
+    },
+    {
+      "row_index": 469,
+      "verdict": "no_match",
+      "evidence": "AliveDx Suisse SA is a Swiss biotechnology company engaged in in-vitro diagnostics.",
+      "reason": "No mention of packaging materials or direct-to-consumer cosmetics."
+    },
+    {
+      "row_index": 88,
+      "verdict": "insufficient_data",
+      "evidence": "Foederis is a Swiss company specialized in the development and distribution of software solutions for talent management and human resources information systems.",
+      "reason": "No mention of packaging materials or direct-to-consumer cosmetics, but also no clear indication of a lack of relevance."
+    },
+    {
+      "row_index": 81,
+      "verdict": "no_match",
+      "evidence": "HR Campus serves clients in Switzerland and the Romandie region, including SMEs, large enterprises, and public sector organizations.",
+      "reason": "No mention of packaging materials or cosmetics industry"
+    },
+    {
+      "row_index": 304,
+      "verdict": "no_match",
+      "evidence": "visusta serves a broad range of clients, including those in the food industry, and emphasizes a pragmatic approach to embedding sustainability within business models.",
+      "reason": "No mention of packaging materials or cosmetics industry"
+    },
+    {
+      "row_index": 312,
+      "verdict": "no_match",
+      "evidence": "MA-Engineering GmbH, DBA MA-Engineering, is a Swiss engineering company specialized in sustainable construction projects.",
+      "reason": "No mention of packaging materials or cosmetics industry"
+    },
+    {
+      "row_index": 301,
+      "verdict": "no_match",
+      "evidence": "Terzic Urban Engineering is a Swiss company specialized in urban engineering solutions, including the design of road, highway, and railway networks, as well as sustainable public transport system development.",
+      "reason": "No mention of packaging materials or cosmetics industry"
+    }
+  ]
+}

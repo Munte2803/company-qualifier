@@ -1,0 +1,27 @@
+nohup: ignoring input
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights:  61%|██████    | 121/199 [00:00<00:00, 1205.65it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 1357.92it/s]
+Split strings:   0%|          | 0/457 [00:00<?, ?it/s]                                                      Stem Tokens:   0%|          | 0/457 [00:00<?, ?it/s]                                                    BM25S Count Tokens:   0%|          | 0/457 [00:00<?, ?it/s]                                                           BM25S Compute Scores:   0%|          | 0/457 [00:00<?, ?it/s]                                                             Loading weights:   0%|          | 0/201 [00:00<?, ?it/s]Loading weights:  62%|██████▏   | 125/201 [00:00<00:00, 1242.38it/s]Loading weights: 100%|██████████| 201/201 [00:00<00:00, 1563.08it/s]
+q01: exists, skipping
+=== q02: Public software companies with more than 1,000 employees.
+Split strings:   0%|          | 0/1 [00:00<?, ?it/s]                                                    Stem Tokens:   0%|          | 0/1 [00:00<?, ?it/s]                                                  BM25S Retrieve:   0%|          | 0/1 [00:00<?, ?it/s]                                                       judged 4/40
+  judged 8/40
+  judged 12/40
+  judged 16/40
+  judged 20/40
+  judged 24/40
+  judged 28/40
+  judged 32/40
+  judged 36/40
+  judged 40/40
+q02: saved 39 verdicts
+q03: exists, skipping
+q04: exists, skipping
+q05: exists, skipping
+q06: exists, skipping
+q07: exists, skipping
+q08: exists, skipping
+q09: exists, skipping
+q10: exists, skipping
+q11: exists, skipping
+q12: exists, skipping

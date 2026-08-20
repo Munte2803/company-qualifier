@@ -1,0 +1,298 @@
+{
+  "query_id": "q06",
+  "query": "Pharmaceutical companies in Switzerland",
+  "plan": {
+    "country_codes": [
+      "ch"
+    ],
+    "numeric_filters": [],
+    "semantic_text": "pharmaceutical companies",
+    "hyde_descriptions": [],
+    "unsupported": [],
+    "boolean_filters": {}
+  },
+  "candidates_after_rerank": [
+    449,
+    456,
+    476,
+    453,
+    448,
+    458,
+    461,
+    474,
+    451,
+    471,
+    445,
+    470,
+    464,
+    465,
+    444,
+    447,
+    443,
+    475,
+    454,
+    459,
+    452,
+    450,
+    455,
+    467,
+    446,
+    463,
+    457,
+    462,
+    472,
+    473,
+    468,
+    466,
+    460,
+    469,
+    304,
+    74,
+    81,
+    88,
+    374,
+    301
+  ],
+  "verdicts": [
+    {
+      "row_index": 449,
+      "verdict": "match",
+      "evidence": "The company is a Swiss pharmaceutical company engaged in the manufacturing and distribution of pharmaceutical products, with a focus on oncology, urology, women’s health, rare diseases, cell and gene therapies, and central nervous system disorders.",
+      "reason": "The company is a pharmaceutical company in Switzerland, matching the query."
+    },
+    {
+      "row_index": 456,
+      "verdict": "match",
+      "evidence": "Idorsia Pharmaceuticals Ltd is a Swiss biopharmaceutical company engaged in the discovery, development, and commercialization of small molecule therapeutics.",
+      "reason": "The company is a biopharmaceutical company in Switzerland, matching the query."
+    },
+    {
+      "row_index": 476,
+      "verdict": "match",
+      "evidence": "A. Menarini GmbH is a Swiss pharmaceutical company engaged in the development, manufacturing, and distribution of medicinal products for primary and specialty care, with a focus on cardiovascular diseases, pain management, infectiology, allergology, and urology.",
+      "reason": "The company is a pharmaceutical company in Switzerland, matching the query."
+    },
+    {
+      "row_index": 453,
+      "verdict": "no_match",
+      "evidence": "The company operates in therapeutic areas such as aesthetics, allergology, cardiovascular diseases, and women’s health, but also provides contract manufacturing and out-licensing services to pharmaceutical companies.",
+      "reason": "The company is a pharmaceutical company in Switzerland, but it also provides contract manufacturing and out-licensing services, which is not explicitly mentioned in the query."
+    },
+    {
+      "row_index": 448,
+      "verdict": "match",
+      "evidence": "Galderma S.A. is a Swiss pharmaceutical company engaged in the development, manufacturing, and distribution of pharmaceutical products.",
+      "reason": "The company is explicitly stated to be a pharmaceutical company in Switzerland."
+    },
+    {
+      "row_index": 458,
+      "verdict": "match",
+      "evidence": "IBSA Institut Biochimique SA is a Swiss pharmaceutical company engaged in the production of therapeutic products, including prescription drugs, over-the-counter medicines, medical devices, and food supplements.",
+      "reason": "The company is explicitly stated to be a pharmaceutical company in Switzerland."
+    },
+    {
+      "row_index": 461,
+      "verdict": "no_match",
+      "evidence": "CARBOGEN AMCIS AG, DBA CARBOGEN AMCIS, is a Swiss pharmaceutical company that operates as a Contract Development and Manufacturing Organization (CDMO) for the pharmaceutical and biopharmaceutical sectors.",
+      "reason": "The company is a CDMO, which means it does not manufacture its own products, but rather provides services to other companies."
+    },
+    {
+      "row_index": 474,
+      "verdict": "match",
+      "evidence": "Tillotts Pharma AG is a Swiss pharmaceutical company engaged in the development, in/out-licensing, and marketing of pharmaceutical products for gastroenterology, with a focus on inflammatory bowel diseases.",
+      "reason": "The company is explicitly stated to be a pharmaceutical company in Switzerland."
+    },
+    {
+      "row_index": 451,
+      "verdict": "match",
+      "evidence": "Siegfried AG is a Swiss contract development and manufacturing organization engaged in the production of active pharmaceutical ingredients, intermediates, and finished dosage forms.",
+      "reason": "The company is a Swiss pharmaceutical company and explicitly mentions production of active pharmaceutical ingredients, intermediates, and finished dosage forms."
+    },
+    {
+      "row_index": 471,
+      "verdict": "match",
+      "evidence": "TRB CHEMEDICA INTERNATIONAL SA, DBA TRB Chemedica, is a Swiss pharmaceutical company engaged in the development, manufacturing, and distribution of hyaluronic acid-based medical devices, medical food supplements, and pharmaceutical products.",
+      "reason": "The company is a Swiss pharmaceutical company and explicitly mentions development, manufacturing, and distribution of pharmaceutical products."
+    },
+    {
+      "row_index": 445,
+      "verdict": "match",
+      "evidence": "Octapharma AG is a Swiss pharmaceutical company engaged in the development, manufacturing, and distribution of human protein-based therapies.",
+      "reason": "The company is a Swiss pharmaceutical company and explicitly mentions development, manufacturing, and distribution of pharmaceutical products."
+    },
+    {
+      "row_index": 470,
+      "verdict": "match",
+      "evidence": "Helsinn Healthcare SA is a Swiss pharmaceutical company engaged in the research, development, manufacturing, and commercialization of pharmaceuticals, medical devices, and nutritional supplements.",
+      "reason": "The company is a Swiss pharmaceutical company and explicitly mentions development, manufacturing, and commercialization of pharmaceuticals."
+    },
+    {
+      "row_index": 464,
+      "verdict": "match",
+      "evidence": "MSD Merck Sharp & Dohme AG is a Swiss biopharmaceutical company engaged in the research, development, manufacturing, and commercialization of medicines and vaccines.",
+      "reason": "The company is a Swiss biopharmaceutical company, which matches the query."
+    },
+    {
+      "row_index": 465,
+      "verdict": "no_match",
+      "evidence": "Abela Pharm GmbH, DBA AbelaPharm, is a Swiss pharmaceutical company engaged in the development, production, and distribution of natural and licensed dietary supplements.",
+      "reason": "The company is primarily involved in dietary supplements, which does not match the query for pharmaceutical companies."
+    },
+    {
+      "row_index": 444,
+      "verdict": "match",
+      "evidence": "Lonza Group Ltd is a Swiss contract development and manufacturing organization that provides integrated solutions for the healthcare industry, including biologics, small molecules, and specialized modalities.",
+      "reason": "The company is a Swiss contract development and manufacturing organization, which matches the query."
+    },
+    {
+      "row_index": 447,
+      "verdict": "match",
+      "evidence": "Ferring International Center S.A. is a Swiss biopharmaceutical company engaged in the research, development, and manufacturing of pharmaceutical products and therapies for reproductive medicine, maternal health, gastroenterology, urology, and microbiome research.",
+      "reason": "The company is a Swiss biopharmaceutical company, which matches the query."
+    },
+    {
+      "row_index": 443,
+      "verdict": "match",
+      "evidence": "The company operates in 118 countries and serves a global patient base, with a focus on therapeutic areas such as cardiovascular, renal and metabolic, immunology, neuroscience, and oncology.",
+      "reason": "The company is a multinational pharmaceutical corporation with a global presence, which matches the query's requirement for pharmaceutical companies in Switzerland."
+    },
+    {
+      "row_index": 475,
+      "verdict": "match",
+      "evidence": "KD Pharma Group SA is a Swiss contract development and manufacturing organization engaged in pharmaceutical and nutraceutical solutions.",
+      "reason": "The company is a Swiss pharmaceutical company, which matches the query's requirement for pharmaceutical companies in Switzerland."
+    },
+    {
+      "row_index": 454,
+      "verdict": "match",
+      "evidence": "Corden Pharma International GmbH, DBA CordenPharma, is a Swiss contract development and manufacturing organization specialized in the development and manufacturing of active pharmaceutical ingredients (APIs), lipid excipients, drug products, injectables, peptides, oligonucleotides, and small molecules.",
+      "reason": "The company is a Swiss pharmaceutical company, which matches the query's requirement for pharmaceutical companies in Switzerland."
+    },
+    {
+      "row_index": 459,
+      "verdict": "match",
+      "evidence": "Bachem AG is a Swiss pharmaceutical company engaged in the development and manufacturing of peptides and oligonucleotides.",
+      "reason": "The company is a Swiss pharmaceutical company, which matches the query's requirement for pharmaceutical companies in Switzerland."
+    },
+    {
+      "row_index": 452,
+      "verdict": "match",
+      "evidence": "PSI CRO AG is a Swiss contract research organization that provides clinical research services, including clinical trial planning, execution, and site support for pharmaceutical and biotechnology companies.",
+      "reason": "The company is a Swiss contract research organization that provides services for pharmaceutical and biotechnology companies."
+    },
+    {
+      "row_index": 450,
+      "verdict": "match",
+      "evidence": "Lonza Capsules & Health Ingredients is a Swiss pharmaceutical and nutraceutical company engaged in capsule design, manufacturing, and encapsulation technology.",
+      "reason": "The company is a Swiss pharmaceutical company."
+    },
+    {
+      "row_index": 455,
+      "verdict": "match",
+      "evidence": "PolyPeptide Group AG is a Swiss contract development and manufacturing organization engaged in the development and manufacturing of peptide- and oligonucleotide-based active pharmaceutical ingredients and intermediates for pharmaceutical and biotechnology companies.",
+      "reason": "The company is a Swiss contract development and manufacturing organization that provides services for pharmaceutical and biotechnology companies."
+    },
+    {
+      "row_index": 467,
+      "verdict": "match",
+      "evidence": "Debiopharm International SA is a Swiss biopharmaceutical company engaged in drug development, manufacturing, and digital health investment.",
+      "reason": "The company is a Swiss biopharmaceutical company."
+    },
+    {
+      "row_index": 446,
+      "verdict": "match",
+      "evidence": "The company operates in the healthcare sector, offering products such as medical nutrition, active lifestyle nutrition, and pharmaceutical solutions for various life stages, including pediatrics and healthy aging.",
+      "reason": "The company explicitly mentions being in the healthcare sector and offering pharmaceutical solutions."
+    },
+    {
+      "row_index": 463,
+      "verdict": "match",
+      "evidence": "The company operates internationally, distributing its products in over 100 countries and maintaining a presence in Central America.",
+      "reason": "The company explicitly mentions operating internationally and distributing its products in many countries."
+    },
+    {
+      "row_index": 457,
+      "verdict": "match",
+      "evidence": "The company develops and commercializes products for respiratory, food, and veterinary allergies, including sublingual and subcutaneous allergen immunotherapy, oral immunotherapy for peanut allergies, and veterinary allergen immunotherapy.",
+      "reason": "The company explicitly mentions developing and commercializing products for allergies, which is a type of pharmaceutical solution."
+    },
+    {
+      "row_index": 462,
+      "verdict": "no_match",
+      "evidence": "The company is a medical equipment manufacturer engaged in the development and production of hyaluronic acid-based dermal fillers and dermocosmetics for aesthetic medicine.",
+      "reason": "The company is primarily involved in aesthetic medicine and dermocosmetics, which is not a pharmaceutical company."
+    },
+    {
+      "row_index": 472,
+      "verdict": "match",
+      "evidence": "The company provides services from cell line development to commercial manufacturing, and also offers fill and finish services through a third-party strategic alliance partner.",
+      "reason": "The company explicitly supports all requirements of the query, including being a pharmaceutical company in Switzerland."
+    },
+    {
+      "row_index": 473,
+      "verdict": "match",
+      "evidence": "ADC Therapeutics SA is a Swiss biotechnology company engaged in the research, development, manufacturing, and commercialization of antibody drug conjugates (ADCs) for the treatment of hematological malignancies and solid tumors.",
+      "reason": "The company is a pharmaceutical company in Switzerland, meeting all requirements of the query."
+    },
+    {
+      "row_index": 468,
+      "verdict": "no_match",
+      "evidence": "CRISPR Therapeutics AG is a Swiss-American biotechnology company engaged in gene editing technologies and gene-based medicines.",
+      "reason": "The company is not a pharmaceutical company in Switzerland, as it is described as a biotechnology company with a manufacturing facility in the United States."
+    },
+    {
+      "row_index": 466,
+      "verdict": "no_match",
+      "evidence": "Drugs for Neglected Diseases initiative is a Swiss nonprofit research organization engaged in the development of treatments for neglected diseases.",
+      "reason": "The company is not a pharmaceutical company, but a research organization, and it does not explicitly mention being in the pharmaceutical industry in Switzerland."
+    },
+    {
+      "row_index": 460,
+      "verdict": "match",
+      "evidence": "The company serves a broad market of over 260 million people in more than 140 countries...",
+      "reason": "The company is a global pharmaceutical company with a presence in over 140 countries, which matches the query's requirement of being in Switzerland."
+    },
+    {
+      "row_index": 469,
+      "verdict": "match",
+      "evidence": "AliveDx Suisse SA is a Swiss biotechnology company...",
+      "reason": "The company is explicitly stated to be in Switzerland, which matches the query's requirement."
+    },
+    {
+      "row_index": 304,
+      "verdict": "no_match",
+      "evidence": "visusta GmbH, DBA visusta, is a Swiss company specialized in providing consulting and interventions to support businesses in achieving sustainability goals.",
+      "reason": "The company is not a pharmaceutical company, but rather an environmental consulting services company."
+    },
+    {
+      "row_index": 74,
+      "verdict": "no_match",
+      "evidence": "NOVATIVE SA is a Swiss private company that provides human resources and payroll outsourcing services, as well as HR management software solutions.",
+      "reason": "The company is not a pharmaceutical company, but rather a human resources consulting services company."
+    },
+    {
+      "row_index": 81,
+      "verdict": "no_match",
+      "evidence": "serves clients in Switzerland and the Romandie region, including SMEs, large enterprises, and public sector organizations.",
+      "reason": "The company is a human resources consulting firm, but it does not explicitly mention being a pharmaceutical company."
+    },
+    {
+      "row_index": 88,
+      "verdict": "no_match",
+      "evidence": "The company provides a SaaS-based HR software suite that covers transactional HR processes, training, performance, competencies, career management, recruitment, and HR consulting.",
+      "reason": "The company is an HR software provider, but it does not explicitly mention being a pharmaceutical company."
+    },
+    {
+      "row_index": 374,
+      "verdict": "no_match",
+      "evidence": "The company develops and manufactures battery cells using technologies such as Thick Layer Technology and composite cathodes.",
+      "reason": "The company is a battery manufacturer, but it does not explicitly mention being a pharmaceutical company."
+    },
+    {
+      "row_index": 301,
+      "verdict": "no_match",
+      "evidence": "The company provides planning and management for private, public, and slow traffic, and offers services in traffic moderation, road safety solutions, and parking and rest area planning.",
+      "reason": "The company is an engineering services firm, but it does not explicitly mention being a pharmaceutical company."
+    }
+  ]
+}

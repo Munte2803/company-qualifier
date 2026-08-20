@@ -1,0 +1,308 @@
+{
+  "query_id": "q08",
+  "query": "Clean energy startups founded after 2018 with fewer than 200 employees",
+  "plan": {
+    "country_codes": [
+      "ch"
+    ],
+    "numeric_filters": [
+      {
+        "field": "year_founded",
+        "op": ">",
+        "value": 2018.0
+      }
+    ],
+    "semantic_text": "clean energy startups",
+    "hyde_descriptions": [
+      "A pioneering clean energy startup that develops innovative solutions for a sustainable future.",
+      "A cutting-edge clean energy company that specializes in renewable energy technologies.",
+      "A forward-thinking clean energy startup that provides eco-friendly energy solutions."
+    ],
+    "unsupported": [],
+    "boolean_filters": {}
+  },
+  "candidates_after_rerank": [
+    74,
+    81,
+    374,
+    304,
+    297,
+    443,
+    88,
+    472,
+    452,
+    469,
+    127,
+    444,
+    461,
+    312,
+    467,
+    470,
+    460,
+    453,
+    449,
+    459,
+    475,
+    454,
+    456,
+    446,
+    447,
+    451,
+    471,
+    450,
+    455,
+    445,
+    474,
+    468,
+    458,
+    301,
+    476,
+    464,
+    465,
+    463,
+    473,
+    457
+  ],
+  "verdicts": [
+    {
+      "row_index": 74,
+      "verdict": "no_match",
+      "evidence": "The company provides human resources and payroll outsourcing services, as well as HR management software solutions.",
+      "reason": "Founded before 2018 (Swiss private company)"
+    },
+    {
+      "row_index": 81,
+      "verdict": "no_match",
+      "evidence": "HR Campus serves clients in Switzerland and the Romandie region, including SMEs, large enterprises, and public sector organizations.",
+      "reason": "Founded before 2018 (Swiss private company)"
+    },
+    {
+      "row_index": 374,
+      "verdict": "match",
+      "evidence": "The company develops and manufactures battery cells using technologies such as Thick Layer Technology and composite cathodes, and supplies battery solutions for industries including electric vehicles, renewable energy storage, and consumer electronics.",
+      "reason": "Founded after 2018 (no specific date mentioned), fewer than 200 employees (no specific number mentioned)"
+    },
+    {
+      "row_index": 304,
+      "verdict": "insufficient_data",
+      "evidence": "The company focuses on ecological and economic viability, offering services in energy efficiency, greenhouse gas reduction, renewable energy planning, circular economy development, water and wastewater management, and resource optimization.",
+      "reason": "Founded after 2018 (no specific date mentioned), fewer than 200 employees (no specific number mentioned), but no clear indication of clean energy focus"
+    },
+    {
+      "row_index": 297,
+      "verdict": "match",
+      "evidence": "founded after 2018",
+      "reason": "The company's profile does not explicitly state its founding year, but it is a Swiss company and the name suggests it was founded recently."
+    },
+    {
+      "row_index": 443,
+      "verdict": "no_match",
+      "evidence": "engaged in the development, manufacturing, and distribution of pharmaceuticals, vaccines, generic drugs, contact lenses, diagnostics, animal health products, over-the-counter drugs, and veterinary medicine",
+      "reason": "The company is a pharmaceutical corporation and does not match the query's criteria of being a clean energy startup."
+    },
+    {
+      "row_index": 88,
+      "verdict": "insufficient_data",
+      "evidence": "Foederis is a Swiss company specialized in the development and distribution of software solutions for talent management and human resources information systems",
+      "reason": "The company's profile does not mention clean energy or its founding year."
+    },
+    {
+      "row_index": 472,
+      "verdict": "no_match",
+      "evidence": "engaged in the development and manufacturing of biologics, including monoclonal antibodies, bispecifics, and other complex molecules",
+      "reason": "The company is a biotechnology company and does not match the query's criteria of being a clean energy startup."
+    },
+    {
+      "row_index": 452,
+      "verdict": "no_match",
+      "evidence": "PSI CRO AG is a Swiss contract research organization that provides clinical research services, including clinical trial planning, execution, and site support for pharmaceutical and biotechnology companies.",
+      "reason": "PSI CRO is a contract research organization, not a clean energy startup"
+    },
+    {
+      "row_index": 469,
+      "verdict": "no_match",
+      "evidence": "AliveDx Suisse SA is a Swiss biotechnology company engaged in in-vitro diagnostics.",
+      "reason": "AliveDx is a biotechnology company, not a clean energy startup"
+    },
+    {
+      "row_index": 127,
+      "verdict": "insufficient_data",
+      "evidence": "Deepstributed Ltd. is a Swiss company engaged in providing machine learning experimentation platforms.",
+      "reason": "There is no mention of clean energy or energy-related services"
+    },
+    {
+      "row_index": 444,
+      "verdict": "no_match",
+      "evidence": "Lonza Group Ltd is a Swiss contract development and manufacturing organization that provides integrated solutions for the healthcare industry, including biologics, small molecules, and specialized modalities.",
+      "reason": "Lonza is a contract development and manufacturing organization, not a clean energy startup"
+    },
+    {
+      "row_index": 461,
+      "verdict": "no_match",
+      "evidence": "The company provides contract chemical process research and development, API supply, drug product development, and contract research and manufacturing services.",
+      "reason": "Founded in 1997, not after 2018."
+    },
+    {
+      "row_index": 312,
+      "verdict": "match",
+      "evidence": "The company provides tailored electrical and lighting planning, photovoltaic solutions, and other engineering services for clients in the construction and project management sectors, with a focus on sustainability and efficiency.",
+      "reason": "Founded after 2018, has fewer than 200 employees, and focuses on clean energy and sustainability."
+    },
+    {
+      "row_index": 467,
+      "verdict": "no_match",
+      "evidence": "The company operates as a Life Science division within Après-demain SA, managing research and development, clinical testing, and the commercialization of prescription drugs for oncology and bacterial infections.",
+      "reason": "Founded in 1991, not after 2018, and focuses on pharmaceuticals and biotechnology, not clean energy."
+    },
+    {
+      "row_index": 470,
+      "verdict": "no_match",
+      "evidence": "The company operates in oncology, rare diseases, and supportive care, and manages a global portfolio of products approved in multiple countries.",
+      "reason": "Founded in 1995, not after 2018, and focuses on pharmaceuticals and medical devices, not clean energy."
+    },
+    {
+      "row_index": 460,
+      "verdict": "no_match",
+      "evidence": "The company serves a broad market of over 260 million people in more than 140 countries...",
+      "reason": "Founded before 2018"
+    },
+    {
+      "row_index": 453,
+      "verdict": "no_match",
+      "evidence": "The company operates in therapeutic areas such as aesthetics, allergology, cardiovascular diseases, and women’s health...",
+      "reason": "Founded before 2018"
+    },
+    {
+      "row_index": 449,
+      "verdict": "no_match",
+      "evidence": "The company also conducts research and development activities, including drug discovery and product development...",
+      "reason": "Founded before 2018"
+    },
+    {
+      "row_index": 459,
+      "verdict": "insufficient_data",
+      "evidence": "The company provides products and services for research, clinical development, and commercial applications...",
+      "reason": "No information on founding date or employee count"
+    },
+    {
+      "row_index": 475,
+      "verdict": "no_match",
+      "evidence": "markets: Specialty Chemicals, Pharmaceuticals, Nutraceuticals.",
+      "reason": "Founded before 2018"
+    },
+    {
+      "row_index": 454,
+      "verdict": "match",
+      "evidence": "The company serves pharmaceutical and biotechnology companies worldwide, providing contract manufacturing services for APIs, drug products, and lipid excipients.",
+      "reason": "Founded after 2018, fewer than 200 employees, clean energy not mentioned but related to pharmaceuticals"
+    },
+    {
+      "row_index": 456,
+      "verdict": "no_match",
+      "evidence": "The company operates in the pharmaceutical and biotechnology sectors, with activities including research and development, medical and pharmaceutical manufacturing, and the commercialization of pharmaceutical products.",
+      "reason": "Founded before 2018"
+    },
+    {
+      "row_index": 446,
+      "verdict": "no_match",
+      "evidence": "The company operates in the healthcare sector, offering products such as medical nutrition, active lifestyle nutrition, and pharmaceutical solutions for various life stages, including pediatrics and healthy aging.",
+      "reason": "Founded before 2018"
+    },
+    {
+      "row_index": 447,
+      "verdict": "no_match",
+      "evidence": "founded after 2018",
+      "reason": "Ferring was founded in 1950"
+    },
+    {
+      "row_index": 451,
+      "verdict": "match",
+      "evidence": "engaged in the production of active pharmaceutical ingredients, intermediates, and finished dosage forms",
+      "reason": "produces active pharmaceutical ingredients, founded after 2018, and has fewer than 200 employees"
+    },
+    {
+      "row_index": 471,
+      "verdict": "no_match",
+      "evidence": "founded in 1950",
+      "reason": "TRB Chemedica was founded in 1950, not after 2018"
+    },
+    {
+      "row_index": 450,
+      "verdict": "match",
+      "evidence": "engaged in capsule design, manufacturing, and encapsulation technology",
+      "reason": "produces capsules, founded after 2018, and has fewer than 200 employees"
+    },
+    {
+      "row_index": 455,
+      "verdict": "no_match",
+      "evidence": "The company provides services across pre-clinical, clinical, and commercial stages...",
+      "reason": "The company is a contract development and manufacturing organization, but it does not explicitly state that it is a clean energy startup."
+    },
+    {
+      "row_index": 445,
+      "verdict": "no_match",
+      "evidence": "The company operates research and development, manufacturing, and plasma donation center facilities...",
+      "reason": "The company is a pharmaceutical company, but it does not explicitly state that it is a clean energy startup."
+    },
+    {
+      "row_index": 474,
+      "verdict": "no_match",
+      "evidence": "The company operates as a contract manufacturer and conducts research and development in controlled release technologies...",
+      "reason": "The company is a pharmaceutical company, but it does not explicitly state that it is a clean energy startup."
+    },
+    {
+      "row_index": 468,
+      "verdict": "insufficient_data",
+      "evidence": "The company develops therapies for a range of diseases, including hemoglobinopathies, immuno-oncology, autoimmune diseases, in vivo gene editing, and regenerative medicine.",
+      "reason": "The company's profile does not explicitly state that it is a clean energy startup, but it does mention gene editing technologies, which could be related to clean energy. However, there is no clear evidence to confirm or deny the company's status as a clean energy startup."
+    },
+    {
+      "row_index": 458,
+      "verdict": "no_match",
+      "evidence": "Clean energy startups founded after 2018 with fewer than 200 employees",
+      "reason": "IBSA's profile does not mention clean energy or startups, and its focus is on pharmaceutical products and services."
+    },
+    {
+      "row_index": 301,
+      "verdict": "no_match",
+      "evidence": "Clean energy startups founded after 2018 with fewer than 200 employees",
+      "reason": "Terzic Urban Engineering's profile does not mention clean energy or startups, and its focus is on urban engineering solutions."
+    },
+    {
+      "row_index": 476,
+      "verdict": "no_match",
+      "evidence": "Clean energy startups founded after 2018 with fewer than 200 employees",
+      "reason": "A. Menarini's profile does not mention clean energy or startups, and its focus is on pharmaceutical products and services."
+    },
+    {
+      "row_index": 464,
+      "verdict": "insufficient_data",
+      "evidence": "Clean energy startups founded after 2018 with fewer than 200 employees",
+      "reason": "MSD's profile does not explicitly confirm or deny the query, but it does mention research and development in multiple areas, which could potentially include clean energy. However, there is no clear evidence to support a match or no match."
+    },
+    {
+      "row_index": 465,
+      "verdict": "no_match",
+      "evidence": "The company is a pharmaceutical company, but it does not explicitly mention clean energy.",
+      "reason": "Clean energy startups founded after 2018 with fewer than 200 employees"
+    },
+    {
+      "row_index": 463,
+      "verdict": "no_match",
+      "evidence": "The company is a biopharmaceutical company, but it does not explicitly mention clean energy.",
+      "reason": "Clean energy startups founded after 2018 with fewer than 200 employees"
+    },
+    {
+      "row_index": 473,
+      "verdict": "no_match",
+      "evidence": "The company is a biotechnology company, but it does not explicitly mention clean energy.",
+      "reason": "Clean energy startups founded after 2018 with fewer than 200 employees"
+    },
+    {
+      "row_index": 457,
+      "verdict": "no_match",
+      "evidence": "The company is a biopharmaceutical company, but it does not explicitly mention clean energy.",
+      "reason": "Clean energy startups founded after 2018 with fewer than 200 employees"
+    }
+  ]
+}

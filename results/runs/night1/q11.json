@@ -1,0 +1,302 @@
+{
+  "query_id": "q11",
+  "query": "Renewable energy equipment manufacturers in Scandinavia",
+  "plan": {
+    "country_codes": [
+      "europe"
+    ],
+    "numeric_filters": [],
+    "semantic_text": "renewable energy equipment manufacturers",
+    "hyde_descriptions": [
+      "Manufacturing and supplying equipment for renewable energy solutions, such as solar panels and wind turbines.",
+      "Designing and producing innovative renewable energy equipment for a sustainable future.",
+      "Specializing in the development and manufacturing of renewable energy equipment, including solar and wind power systems."
+    ],
+    "unsupported": [],
+    "boolean_filters": {}
+  },
+  "candidates_after_rerank": [
+    437,
+    436,
+    442,
+    417,
+    204,
+    198,
+    428,
+    173,
+    207,
+    184,
+    171,
+    408,
+    209,
+    179,
+    411,
+    166,
+    178,
+    197,
+    186,
+    164,
+    175,
+    203,
+    416,
+    435,
+    177,
+    405,
+    168,
+    430,
+    194,
+    187,
+    195,
+    424,
+    174,
+    183,
+    402,
+    211,
+    401,
+    181,
+    167,
+    190
+  ],
+  "verdicts": [
+    {
+      "row_index": 437,
+      "verdict": "match",
+      "evidence": "Renewable Energy Semiconductor Manufacturing",
+      "reason": "The company explicitly mentions renewable energy semiconductor manufacturing."
+    },
+    {
+      "row_index": 436,
+      "verdict": "match",
+      "evidence": "production and supply of small-scale renewable energy products",
+      "reason": "The company explicitly mentions production and supply of renewable energy products."
+    },
+    {
+      "row_index": 442,
+      "verdict": "match",
+      "evidence": "solar energy solutions, focusing on solar panels, smart batteries, and off-grid energy systems",
+      "reason": "The company explicitly mentions solar energy solutions and manufacturing of solar panels and smart batteries."
+    },
+    {
+      "row_index": 417,
+      "verdict": "match",
+      "evidence": "production and sale of solar panels and related products",
+      "reason": "The company explicitly mentions production and sale of solar panels."
+    },
+    {
+      "row_index": 204,
+      "verdict": "match",
+      "evidence": "The company operates in the renewable energy sector, offering products such as solar power generation units and energy storage systems...",
+      "reason": "The company explicitly mentions operating in the renewable energy sector and offers solar power generation units and energy storage systems."
+    },
+    {
+      "row_index": 198,
+      "verdict": "match",
+      "evidence": "The company provides products and solutions for energy storage, lighting, and security, serving both residential and commercial markets globally.",
+      "reason": "The company explicitly mentions providing products and solutions for energy storage, which is a key requirement of the query."
+    },
+    {
+      "row_index": 428,
+      "verdict": "no_match",
+      "evidence": "The company focuses on solar energy production and rooftop renovation projects, serving residential and commercial clients seeking sustainable energy solutions and property renovation services.",
+      "reason": "The company does not explicitly mention manufacturing renewable energy equipment, but rather focuses on installation and renovation services."
+    },
+    {
+      "row_index": 173,
+      "verdict": "match",
+      "evidence": "The company focuses on providing solutions for renewable energy investors and stakeholders seeking cost-effective and scalable tidal energy systems.",
+      "reason": "The company explicitly mentions providing solutions for renewable energy investors and stakeholders, which aligns with the query's requirement of renewable energy equipment manufacturers in Scandinavia."
+    },
+    {
+      "row_index": 207,
+      "verdict": "match",
+      "evidence": "Wind Turbine Operation, Wind Turbine Manufacturing, Wind Turbine Supply, Renewable Energy Solutions",
+      "reason": "All requirements are explicitly supported"
+    },
+    {
+      "row_index": 184,
+      "verdict": "match",
+      "evidence": "Wind Power Equipment Services, Wind Power Park Operation, Wind Power Equipment Manufacturing, Wind Power Equipment Retail",
+      "reason": "All requirements are explicitly supported"
+    },
+    {
+      "row_index": 171,
+      "verdict": "no_match",
+      "evidence": "Solar Energy Equipment Supply, Wind Turbine Construction",
+      "reason": "Company operates in solar energy sector, not renewable energy equipment manufacturing in Scandinavia"
+    },
+    {
+      "row_index": 408,
+      "verdict": "no_match",
+      "evidence": "Pellet Boiler and Heater Manufacturing, Biomass Heating Equipment Manufacturing",
+      "reason": "Company primarily manufactures heating equipment, not renewable energy equipment"
+    },
+    {
+      "row_index": 209,
+      "verdict": "match",
+      "evidence": "solar panels, power stations, solar generators, golf vehicles, spare batteries, and golf carts",
+      "reason": "The company explicitly mentions manufacturing and selling renewable energy equipment."
+    },
+    {
+      "row_index": 179,
+      "verdict": "match",
+      "evidence": "wind turbines, clean energy technology, offshore wind and renewable energy solutions",
+      "reason": "The company explicitly mentions manufacturing and selling renewable energy equipment."
+    },
+    {
+      "row_index": 411,
+      "verdict": "match",
+      "evidence": "solar panels, solar panel production facility",
+      "reason": "The company explicitly mentions manufacturing and selling renewable energy equipment."
+    },
+    {
+      "row_index": 166,
+      "verdict": "no_match",
+      "evidence": "Industrial Power Equipment Manufacturing, Renewable Energy Equipment Manufacturing",
+      "reason": "The company's profile mentions manufacturing equipment, but does not specifically mention renewable energy equipment in Scandinavia."
+    },
+    {
+      "row_index": 178,
+      "verdict": "match",
+      "evidence": "wind turbines and AI-optimized wind power systems",
+      "reason": "Explicitly mentions wind turbines and renewable energy solutions"
+    },
+    {
+      "row_index": 197,
+      "verdict": "match",
+      "evidence": "ocean and tidal current energy production",
+      "reason": "Explicitly mentions renewable energy technology and ocean and tidal current energy production"
+    },
+    {
+      "row_index": 186,
+      "verdict": "no_match",
+      "evidence": "provides manufacturing services such as metal fabrication, composite manufacturing, and machining",
+      "reason": "Does not explicitly mention manufacturing of renewable energy equipment"
+    },
+    {
+      "row_index": 164,
+      "verdict": "match",
+      "evidence": "large steel structures for wind turbine towers",
+      "reason": "Explicitly mentions wind turbine towers and renewable energy"
+    },
+    {
+      "row_index": 175,
+      "verdict": "match",
+      "evidence": "Wind electric power generation and related services",
+      "reason": "Explicitly supports wind energy equipment manufacturing"
+    },
+    {
+      "row_index": 203,
+      "verdict": "match",
+      "evidence": "Renewable Energy Equipment Manufacturing",
+      "reason": "Explicitly supports renewable energy equipment manufacturing"
+    },
+    {
+      "row_index": 416,
+      "verdict": "no_match",
+      "evidence": "Wind Turbine Manufacturing",
+      "reason": "Contradicts the query's requirement for 'Renewable energy equipment manufacturers' (not just turbines)"
+    },
+    {
+      "row_index": 435,
+      "verdict": "no_match",
+      "evidence": "Solar-Powered Carport Manufacturing",
+      "reason": "Contradicts the query's requirement for 'equipment manufacturers' (not just solutions or services)"
+    },
+    {
+      "row_index": 177,
+      "verdict": "match",
+      "evidence": "The company provides tailored solutions for onshore and offshore wind turbine installation, maintenance, and transportation...",
+      "reason": "The company explicitly supports the requirements of the query, being a manufacturer of renewable energy equipment in Scandinavia."
+    },
+    {
+      "row_index": 405,
+      "verdict": "no_match",
+      "evidence": "The company provides services including project design, engineering, procurement, logistics, construction, and asset management...",
+      "reason": "The company's profile contradicts the requirement of being a manufacturer of renewable energy equipment, as it primarily provides services."
+    },
+    {
+      "row_index": 168,
+      "verdict": "match",
+      "evidence": "The company is specialized in the manufacturing of mechanical power transmission equipment and the provision of after-sales service for the renewable energy sector...",
+      "reason": "The company explicitly supports the requirements of the query, being a manufacturer of renewable energy equipment in Scandinavia."
+    },
+    {
+      "row_index": 430,
+      "verdict": "no_match",
+      "evidence": "The company primarily serves residential and commercial clients in Denmark.",
+      "reason": "The company's profile contradicts the requirement of being a manufacturer of renewable energy equipment, as it primarily serves clients in Denmark and does not explicitly mention manufacturing equipment."
+    },
+    {
+      "row_index": 194,
+      "verdict": "match",
+      "evidence": "renewable-energy-related products, including solar panels, solar water heaters, small wind turbines, and related accessories.",
+      "reason": "The company explicitly mentions manufacturing and selling renewable energy equipment."
+    },
+    {
+      "row_index": 187,
+      "verdict": "no_match",
+      "evidence": "renewable energy semiconductor manufacturing",
+      "reason": "The company mentions semiconductor manufacturing, which is not a type of renewable energy equipment."
+    },
+    {
+      "row_index": 195,
+      "verdict": "match",
+      "evidence": "large-scale land-based wind turbines and ground-mounted solar power plants",
+      "reason": "The company explicitly mentions manufacturing and installing wind turbines and solar power plants."
+    },
+    {
+      "row_index": 424,
+      "verdict": "match",
+      "evidence": "Organic Rankine Cycle (ORC) turbines and Battery Energy Storage Systems (BESS) for renewable energy applications",
+      "reason": "The company explicitly mentions manufacturing and supplying renewable energy equipment."
+    },
+    {
+      "row_index": 174,
+      "verdict": "match",
+      "evidence": "The company serves clients in the maritime sector, renewable energy, and industrial automation industries...",
+      "reason": "The company explicitly mentions serving clients in the renewable energy industry and manufacturing equipment for wind turbines."
+    },
+    {
+      "row_index": 183,
+      "verdict": "match",
+      "evidence": "offerings: Biomass Power Generation Equipment Sales, Biomass Plant Operation and Maintenance, Renewable Energy Solutions...",
+      "reason": "The company explicitly mentions selling biomass-fired power generation equipment and providing renewable energy solutions."
+    },
+    {
+      "row_index": 402,
+      "verdict": "match",
+      "evidence": "offerings: Solar Panel Production and Installation, Wind Turbine Production and Installation, Renewable Energy Solutions...",
+      "reason": "The company explicitly mentions producing and installing solar panels and wind turbines, which are types of renewable energy equipment."
+    },
+    {
+      "row_index": 211,
+      "verdict": "no_match",
+      "evidence": "offerings: Renewable Energy Product Distribution, Commercial Renewable Energy Solutions...",
+      "reason": "The company explicitly mentions distributing and designing renewable energy products, but does not mention manufacturing equipment for wind turbines or other types of renewable energy equipment."
+    },
+    {
+      "row_index": 401,
+      "verdict": "match",
+      "evidence": "The company serves investors and renewable energy clients, focusing on sustainability and renewable energy solutions.",
+      "reason": "The company is a renewable energy equipment manufacturer in Scandinavia."
+    },
+    {
+      "row_index": 181,
+      "verdict": "match",
+      "evidence": "The company is a Danish manufacturing company engaged in the design, production, installation, and servicing of wind turbines.",
+      "reason": "The company is a renewable energy equipment manufacturer in Scandinavia."
+    },
+    {
+      "row_index": 167,
+      "verdict": "match",
+      "evidence": "The company provides technology platforms that integrate hydro and wind turbines, offering scalable solutions for utility-scale power plants and other industries.",
+      "reason": "The company is a renewable energy equipment manufacturer in Scandinavia."
+    },
+    {
+      "row_index": 190,
+      "verdict": "no_match",
+      "evidence": "The company is engaged in the production, supply, and installation of green energy solutions, including solar panels, battery systems, and wind turbines.",
+      "reason": "The company is not a manufacturer of renewable energy equipment, but rather a supplier and installer of such equipment."
+    }
+  ]
+}

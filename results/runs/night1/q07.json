@@ -1,0 +1,302 @@
+{
+  "query_id": "q07",
+  "query": "B2B SaaS companies providing HR solutions in Europe",
+  "plan": {
+    "country_codes": [
+      "europe"
+    ],
+    "numeric_filters": [],
+    "semantic_text": "b2b saas companies providing hr solutions",
+    "hyde_descriptions": [
+      "Specialized software provider offering human resources management solutions to businesses.",
+      "Cloud-based HR platform delivering tailored solutions to meet the needs of various industries.",
+      "B2B software company specializing in HR solutions, providing scalable and secure platforms for businesses."
+    ],
+    "unsupported": [],
+    "boolean_filters": {}
+  },
+  "candidates_after_rerank": [
+    85,
+    68,
+    88,
+    107,
+    71,
+    74,
+    77,
+    70,
+    65,
+    94,
+    99,
+    105,
+    90,
+    87,
+    93,
+    82,
+    108,
+    72,
+    101,
+    92,
+    84,
+    67,
+    69,
+    97,
+    80,
+    78,
+    91,
+    89,
+    103,
+    110,
+    73,
+    111,
+    76,
+    83,
+    79,
+    100,
+    66,
+    81,
+    95,
+    98
+  ],
+  "verdicts": [
+    {
+      "row_index": 85,
+      "verdict": "match",
+      "evidence": "The company offers HR management systems that include features such as employee data management, performance evaluation, employee scheduling, time tracking, recruitment and applicant tracking, document management, and HR analytics and reporting.",
+      "reason": "The company's profile explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 68,
+      "verdict": "match",
+      "evidence": "The company serves clients across Latin America and Europe, providing software that integrates with HR platforms and offers features such as multiposting, candidate databases, psychometric tests, and AI-driven recruitment solutions.",
+      "reason": "The company's profile explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 88,
+      "verdict": "match",
+      "evidence": "The company provides a SaaS-based HR software suite that covers transactional HR processes, training, performance, competencies, career management, recruitment, and HR consulting, serving clients primarily in Switzerland and internationally.",
+      "reason": "The company's profile explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 107,
+      "verdict": "insufficient_data",
+      "evidence": "The company provides payroll automation, HR management, expense notes, talent management, onboarding/offboarding, professional meetings, and digital HR security services, including digital vaults and electronic HR signatures.",
+      "reason": "The company's profile does not explicitly confirm or deny the query's requirements."
+    },
+    {
+      "row_index": 71,
+      "verdict": "match",
+      "evidence": "The company provides a suite of HR management solutions, including time management, planning, talent management, and recruitment...",
+      "reason": "The company's profile explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 74,
+      "verdict": "match",
+      "evidence": "The company offers cloud-based HR and payroll platforms, including HRMS, payroll software, and workforce management tools...",
+      "reason": "The company's profile explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 77,
+      "verdict": "match",
+      "evidence": "The company provides a cloud-based platform that integrates HR processes such as recruitment, onboarding, and talent management...",
+      "reason": "The company's profile explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 70,
+      "verdict": "no_match",
+      "evidence": "The company serves clients across sectors such as care homes, charities, financial firms, law firms, manufacturing, media and communications, professional services, and schools.",
+      "reason": "The company's profile contradicts the requirement of serving B2B SaaS companies providing HR solutions in Europe, as it mentions serving various sectors including charities and schools."
+    },
+    {
+      "row_index": 65,
+      "verdict": "match",
+      "evidence": "The company offers a comprehensive platform that covers areas such as recruitment, onboarding, staffing, time and attendance, payroll, performance management, training management, employee self-service, internal communication, and HR analytics.",
+      "reason": "The company's profile explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 94,
+      "verdict": "match",
+      "evidence": "The company offers a comprehensive HR software platform that integrates recruitment management, payroll processing, leave and absence tracking, training management, and talent management, as well as electronic contract signing, automated data processing, and real-time HR reporting.",
+      "reason": "The company's profile explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 99,
+      "verdict": "match",
+      "evidence": "The platform is designed to support businesses in managing HR operations and is accessible via a mobile app, integrating with other systems and allowing users to apply their own branding.",
+      "reason": "The company's profile explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 105,
+      "verdict": "insufficient_data",
+      "evidence": "The company offers a digital HR platform that automates personnel management, HR certification training, and payroll services.",
+      "reason": "The company's profile does not confirm or deny the query's requirements, and it is not clear if they provide B2B SaaS HR solutions in Europe."
+    },
+    {
+      "row_index": 90,
+      "verdict": "match",
+      "evidence": "The company develops and provides HR software that includes employee data management, payroll processing, performance management, time and attendance tracking, and employee self-service, all integrated with cloud storage and mobile applications.",
+      "reason": "The company explicitly supports all requirements of the query, including providing HR solutions in Europe."
+    },
+    {
+      "row_index": 87,
+      "verdict": "match",
+      "evidence": "Moorepay Limited is a British company that provides payroll and HR services, including payroll outsourcing, HR software, and HR consulting.",
+      "reason": "The company explicitly supports all requirements of the query, including providing HR solutions in Europe."
+    },
+    {
+      "row_index": 93,
+      "verdict": "match",
+      "evidence": "Paychex Europe Germany GmbH, DBA Paychex, is a German private company specialized in payroll accounting and human resources management solutions.",
+      "reason": "The company explicitly supports all requirements of the query, including providing HR solutions in Europe."
+    },
+    {
+      "row_index": 82,
+      "verdict": "match",
+      "evidence": "SESAME LABS, S.L., DBA Sesame HR, is a Spanish company specialized in human resources software solutions.",
+      "reason": "The company explicitly supports all requirements of the query, including providing HR solutions in Europe."
+    },
+    {
+      "row_index": 108,
+      "verdict": "match",
+      "evidence": "The company offers a suite of HR management tools, including an employee portal, organizational structure management, recruitment and selection, talent management, training management, compensation and benefits, and a complaints channel.",
+      "reason": "The company's profile explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 72,
+      "verdict": "match",
+      "evidence": "The company serves enterprises and small to medium-sized organizations, focusing on HR technology and software development, and operates primarily in the cloud and SaaS market.",
+      "reason": "The company's profile explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 101,
+      "verdict": "match",
+      "evidence": "The company offers a comprehensive, fully automated platform that integrates recruitment, onboarding, performance management, payroll, training, and employee well-being.",
+      "reason": "The company's profile explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 92,
+      "verdict": "match",
+      "evidence": "The company provides a range of HR management tools, including time control, recruitment, scheduling, employee onboarding, performance evaluation, organizational climate surveys, talent and culture management, internal communication, and remote work management.",
+      "reason": "The company's profile explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 84,
+      "verdict": "match",
+      "evidence": "The company develops and provides a modular suite of HR management solutions, including administrative HR management, talent management, and payroll management...",
+      "reason": "The company explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 67,
+      "verdict": "match",
+      "evidence": "The company offers a comprehensive platform for HR management, including payroll, hiring, benefits, employee management, employee experience, and performance management...",
+      "reason": "The company explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 69,
+      "verdict": "no_match",
+      "evidence": "The company provides a SaaS-based HR management platform that integrates with CRM systems to support HR processes, performance management, onboarding, offboarding, document management, employee training, performance evaluation, and payroll automation...",
+      "reason": "The company's profile contradicts the query's requirement of serving B2B SaaS companies providing HR solutions in Europe, as it specifically mentions serving agencies and users across France."
+    },
+    {
+      "row_index": 97,
+      "verdict": "match",
+      "evidence": "The company provides a modular HR platform that integrates with payroll software, offering modules for recruitment, leave and absence management, time management, payroll variables, professional interviews, internal communication, expense notes, and electronic signature...",
+      "reason": "The company explicitly supports all requirements of the query."
+    },
+    {
+      "row_index": 80,
+      "verdict": "match",
+      "evidence": "Visma YouServe is a Dutch company that provides payroll and human resources software and services, with a focus on HR management and payroll administration.",
+      "reason": "The company explicitly mentions providing HR solutions in Europe."
+    },
+    {
+      "row_index": 78,
+      "verdict": "match",
+      "evidence": "Toba HR Solutions NV, DBA Toba HR Solutions, is a Belgian company specialized in HR software solutions, focusing on workforce management, employee engagement, and talent development.",
+      "reason": "The company explicitly mentions providing HR software solutions in Europe."
+    },
+    {
+      "row_index": 91,
+      "verdict": "match",
+      "evidence": "SESAME LABS, S.L., DBA Sesame HR, is a Spanish software company and human resource consulting firm specialized in providing human resources software solutions.",
+      "reason": "The company explicitly mentions providing HR software solutions in Europe."
+    },
+    {
+      "row_index": 89,
+      "verdict": "no_match",
+      "evidence": "Buzz HR Ltd, DBA Buzz HR, is a British company specialized in providing HR software solutions for small businesses in the United Kingdom.",
+      "reason": "The company's focus is on small businesses in the UK, which does not match the query's requirement of providing HR solutions in Europe."
+    },
+    {
+      "row_index": 103,
+      "verdict": "match",
+      "evidence": "The company offers a suite of HR management tools, including time tracking, absence and shift management, payroll management, and employee engagement platforms...",
+      "reason": "The company explicitly supports all requirements of the query, including providing HR solutions in Europe."
+    },
+    {
+      "row_index": 110,
+      "verdict": "match",
+      "evidence": "The company provides services such as employee information management, payroll management, time and attendance tracking, recruitment and onboarding, HR file preparation, sponsor licence application, sponsor licence compliance, and HR analytics.",
+      "reason": "The company explicitly supports all requirements of the query, including providing HR solutions in Europe."
+    },
+    {
+      "row_index": 73,
+      "verdict": "match",
+      "evidence": "The company offers a platform for centralized and automated HR processes, including recruitment, employee onboarding, mobility, training, payroll management, and e-learning.",
+      "reason": "The company explicitly supports all requirements of the query, including providing HR solutions in Europe."
+    },
+    {
+      "row_index": 111,
+      "verdict": "insufficient_data",
+      "evidence": "The company provides certified consultants and technicians to support payroll, personnel administration, talent management, and time management processes for clients in Spain.",
+      "reason": "The company's profile does not explicitly confirm or deny providing HR solutions in Europe, and the focus is on consulting services rather than software solutions."
+    },
+    {
+      "row_index": 76,
+      "verdict": "match",
+      "evidence": "provides information technology solutions for human resource management",
+      "reason": "explicitly supports HR solutions in Europe"
+    },
+    {
+      "row_index": 83,
+      "verdict": "match",
+      "evidence": "provides a comprehensive HR management system",
+      "reason": "explicitly supports HR solutions in Europe"
+    },
+    {
+      "row_index": 79,
+      "verdict": "match",
+      "evidence": "provides a platform that integrates time management, talent management, payroll, and financial management",
+      "reason": "explicitly supports HR solutions in Europe"
+    },
+    {
+      "row_index": 100,
+      "verdict": "no_match",
+      "evidence": "serves companies, employees, and managers",
+      "reason": "does not explicitly support B2B SaaS companies"
+    },
+    {
+      "row_index": 66,
+      "verdict": "match",
+      "evidence": "The company offers a modular suite of HRM and payroll solutions, including modules for recruitment, leave management, expense management, HR analytics, workflows, onboarding, offboarding, time tracking, and benefits administration.",
+      "reason": "The company provides HR management and payroll administration software, which matches the query's requirements."
+    },
+    {
+      "row_index": 81,
+      "verdict": "match",
+      "evidence": "The company offers HR consulting, software implementation, and HR outsourcing, as well as interim management and change management services.",
+      "reason": "The company provides HR consulting and software solutions, which matches the query's requirements."
+    },
+    {
+      "row_index": 95,
+      "verdict": "match",
+      "evidence": "The company provides a cloud-based HR management system with modules for recruitment, legalization of foreign workers, employee onboarding, electronic time recording, and electronic leave requests.",
+      "reason": "The company provides HR management software, which matches the query's requirements."
+    },
+    {
+      "row_index": 98,
+      "verdict": "match",
+      "evidence": "The company provides a suite of HR management tools, including performance evaluation, employee development, recruitment, and employee engagement solutions.",
+      "reason": "The company provides HR management software, which matches the query's requirements."
+    }
+  ]
+}
